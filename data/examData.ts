@@ -2398,4 +2398,754 @@ export const markdownContent = `1. Yer üçün trilaterasiya texnologiyası nec�
 - [ ] Cihazın ısınması
 - [ ] Tətbiqin yavaşlaması
 - [x] Xüsusi şəkillərin pozulması
+401. Nəzərdə tutulan aparat təminatın sürətləndirilməsi Android OS-in hansı versiyasında mövcuddur?
+- [ ] Android 4.1
+- [ ] Android 5.1
+- [ ] Android 2.5
+- [ ] Android 1.3
+- [x] Android 3.0
+402. Android OS-də hansı səviyyələrdə aparat sürətləndirilməsini açıb və ya bağlaya bilərsiniz?
+- [ ] Yalnız pəncərə səviyyəsində
+- [ ] Yalnız fəaliyyət səviyyəsində
+- [ ] Yalnız tətbiq səviyyəsində
+- [ ] Yalnız interfeys element səviyyəsində
+- [x] Bütün səviyyələrdə
+403. Mobil oyun inkişaf etdirərkən hansı məhdudiyyətlər yarana bilər?
+- [ ] Məhdud batareya doldurma
+- [ ] Məlumat ötürmə problemləri
+- [x] Məhdud RAM
+- [ ] Yüksək emal gücü
+- [ ] Məhdud cihaz seçimləri
+404. Dirijor şöbəsində mərkəzi sinir sistemi daxilində aşağıdakılar var:
+- [ ] xüsusi və qeyri-xüsusi hissə
+- [ ] xüsusi və qeyri-ixtisaslaşdırılmış hissələr
+- [ ] sensor və sensor olmayan hissələr
+- [ ] kompozit və ayrılmaz hissələr
+- [x] xüsusi və qeyri-spesifik hissələr
+405. "Həssas bir sinir və reseptor məlumatlarının beyin qabığına keçdiyi bir sıra subkortikal nüvələrlə təmsil olunur" dedikdə aşağıdakı variantlardan hansı başa düşülür?
+- [ ] analizatorun periferik şöbəsi
+- [x] analizatorun keçirici şöbəsi
+- [ ] paralel analizator şöbəsi
+- [ ] analizatorun Ekstremal şöbəsi
+- [ ] analizatorun Mərkəzi Şöbəsi
+406. "Analizatorun keçirici şöbəsinin işi" dedikdə aşağıdakılardan hansı varianta uyğundur?
+- [ ] yuxarı hiss yollarının afferent liflərinin gəldiyi beyin qabığının hiss sahəsi ilə təmsil olunur
+- [ ] müəyyən bir mühitin stimulunu yatırmaq üçün təkamül yolu ilə uyğunlaşdırılmış reseptorlar
+- [x] həssas bir sinir və reseptor məlumatlarının beyin qabığına keçdiyi bir sıra subkortikal nüvələrlə təmsil olunur
+- [ ] xüsusi və qeyri-spesifik hissələri ayırd edin
+- [ ] bu yol boyunca bu analizatorun reseptorları tərəfindən göndərilən xüsusi kod şəklində məlumatlar yayılır
+407. "Vizual sensor sisteminin periferik bölməsi" dedikdə aşağıdakı variantlardan hansı başa düşülür?
+- [ ] qulaq
+- [ ] dəri
+- [x] göz
+- [ ] çapiq
+- [ ] dil
+408. "Reseptorlar və reseptor öncəsi strukturlar xüsusi orqanlar əmələ gətirir" dedikdə aşağıdakı variantlardan hansı başa düşülür?
+- [ ] eşitmə orqanları
+- [ ] orqan görmə
+- [ ] toxunma orqanları
+- [x] hiss orqanları
+- [ ] orqan qoxusu
+409. "Sensor sisteminin periferik şöbəsi" dedikdə aşağıdakı variantlardan hansı başa düşülür?
+- [ ] xüsusi və qeyri-spesifik hissələri ayırd edin
+- [ ] bu yol boyunca bu analizatorun reseptorları tərəfindən göndərilən xüsusi kod şəklində məlumatlar yayılır
+- [ ] həssas bir sinir və beyin qabığındakı reseptorlardan gələn məlumatların keçdiyi bir sıra subkortikal nüvələrlə təmsil olunur
+- [ ] yuxarı hiss yollarının afferent liflərinin gəldiyi beyin qabığının hiss sahəsi ilə təmsil olunur
+- [x] reseptorlar və reseptor öncəsi əlaqə toplusunu əhatə edir
+410. "Buraya reseptorlar və proreseptor bağlantısı – stimulun qavranılmasını asanlaşdıran köməkçi birləşmələr daxildir" dedikdə aşağıdakı variantlardan hansı seçim uyğun gəlir?
+- [ ] paralel analizator şöbəsi
+- [ ] analizatorun keçirici şöbəsi
+- [ ] analizatorun Mərkəzi Şöbəsi
+- [x] analizatorun periferik şöbəsi
+- [ ] analizatorun Ekstremal şöbəsi
+411. "Analizatorun periferik şöbəsi" dedikdə aşağıdakı variantlardan hansı seçim uyğun gəlir?
+- [ ] bu yol boyunca bu analizatorun reseptorları tərəfindən göndərilən xüsusi kod şəklində məlumatlar yayılır
+- [ ] yuxarı hiss yollarının afferent liflərinin gəldiyi beyin qabığının hiss sahəsi ilə təmsil olunur
+- [ ] həssas bir sinir və beyin qabığındakı reseptorlardan gələn məlumatların keçdiyi bir sıra subkortikal nüvələrlə təmsil olunur
+- [x] Təbiətdən gələn müəyyən bir stimulu (xarici qıcıq faktorları) qəbul etmək üçün təkamül yolu ilə uyğunlaşdırılmış reseptorlar
+- [ ] xüsusi və qeyri-spesifik hissələri ayırd edin
+412. "Təbiətdən gələn müəyyən bir stimulu, xarici qıcıq faktorlarını qəbul etmək üçün təkamül yolu ilə uyğunlaşdırılmış reseptorlar" dedikdə nə başa düşülür?
+- [ ] analizatorun Mərkəzi Şöbəsi
+- [ ] analizatorun keçirici şöbəsi
+- [x] analizatorun periferik şöbəsi
+- [ ] paralel analizator şöbəsi
+- [ ] analizatorun Ekstremal şöbəsi
+413. Aşağıdakı variantlardan hansı seçim sensor sistemi və analizator şöbələrinə aiddir?
+- [ ] periferik, paralel, Mərkəzi
+- [ ] periferik, keçirici, Ekstremal
+- [ ] paralel, keçirici, Mərkəzi
+- [x] periferik, keçirici, mərkəzi
+- [ ] paralel, keçirici, ifrat
+414. MIT App Inventor-da mətndən nitqə tərcümə (Text-To-Speech) funksiyasını necə həyata keçirmək olar?
+- [ ] SpeechGenerator
+- [ ] SpeechConverter
+- [ ] TextReader
+- [ ] VoiceSynthesizer
+- [x] TextToSpeech funksiyası ilə
+415. MIT App Inventor tətbiqinə səs tanıma xüsusiyyətini necə əlavə etmək olar?
+- [ ] Səs giriş komponenti
+- [ ] Fon rəngi
+- [ ] RecognizerAudio
+- [x] SpeechToText ilə
+- [ ] Genişləndirmə komponenti
+416. Standart MIT App Inventor komponentlərində təmsil olunmayan xüsusi bir interfeys elementini necə yaratmaq olar?
+- [ ] InterfaceDesigner
+- [ ] İstifadəçi elementi
+- [ ] Xüsusi komponent
+- [ ] UserInterfaceEditor
+- [x] Genişləndirmə komponenti ilə
+417. MIT App Inventor-da ekranın fon rəngini necə dəyişə bilərəm?
+- [ ] ColorPicker
+- [ ] Dəyişiklik fonu
+- [ ] ScreenColor
+- [ ] Arxa plana çəkilmək
+- [x] Fon rəngi ilə
+418. MIT App Inventor-da müxtəlif cihaz ekran ölçüləri üçün həssas dizaynı necə yaratmaq olar?
+- [ ] AdaptiveScreen
+- [ ] LayoutDesigner
+- [ ] ScreenAdapter
+- [ ] ScreenSizeHandler
+- [x] Layout Responsive
+419. MIT App Inventor-da istifadəçi məlumatlarının qorunmasını necə təmin etmək olar?
+- [ ] SecureDataComponent
+- [ ] SecurityGuard
+- [ ] UserPrivacyManager
+- [ ] SecurityFirebas
+- [x] Encryption Data ilə
+420. MIT App Inventor-da açılan siyahı (Spinner) necə yaradılır?
+- [ ] MenuDropDown
+- [ ] SelectorList
+- [x] Siyahı seçimi ilə
+- [ ] Şəkil qalereyası
+- [ ] Try-Catch
+421. MIT App Inventor-da səhvləri idarə etmək üçün hansı bloklardan istifadə olunur?
+- [ ] ExceptionHandler
+- [x] Try-catch blokları
+- [ ] ImageViewer
+- [ ] ErrorHandling
+- [ ] ErrorEvent
+422. MIT App Inventor-da şəkil slayt şousu necə yaradılır?
+- [x] Slayd komponentləri
+- [ ] ImageViewer
+- [ ] GallerySlider
+- [ ] ImageSlider
+- [ ] Şəkil qalereyası
+423. Cihazın kamerasını tətbiqə inteqrasiya etməyə hansı komponent imkan verir?
+- [x] ComponentCamera
+- [ ] ImageCaptures
+- [ ] CameraView
+- [ ] CameraImages
+- [ ] PhotoPicker
+424. Xarici API ilə qarşılıqlı əlaqə üçün MIT App Inventor-a HTTP sorğusunu necə göndərmək olar?
+- [ ] HttpRequest
+- [ ] HTTPClient
+- [ ] NetworkRequest
+- [x] Connector APİ - Application Programming Interface
+- [ ] WebClient
+425. MIT App Inventor istifadə edərək çox oyunçu tətbiqini necə yaratmaq olar?
+- [ ] UserManagement
+- [ ] MultiplayerModules
+- [ ] NetworkCommunication
+- [x] AuthenticationFirebase
+- [ ] MultiUserComponent
+426. MIT App Inventor-da mətn faylları ilə işləmək üçün hansı bloklardan istifadə olunur?
+- [ ] TextFileReader, TextFileManager
+- [ ] TextIOAnimator
+- [ ] TextFileReader və ScreenAnimator
+- [ ] FileHandler
+- [x] TextFileReader və yazıçı
+427. MIT App Inventor istifadə edərək tətbiqinizə animasiya necə əlavə olunur?
+- [ ] ScreenAnimator
+- [ ] AnimatedView
+- [ ] MotionSensor
+- [ ] Şəkil animatoru
+- [x] Animasiya komponentləri ilə
+428. MIT App Inventor-da verilənlər bazası ilə işləmək üçün hansı komponentdən istifadə olunur?
+- [ ] DataStorage
+- [ ] ComponentDatabase
+- [ ] TinyDB blokları
+- [x] FirebaseDB
+- [ ] SQLiteDatabase
+429. Hansı bloklar tətbiq məlumatlarını MIT App Inventor-a saxlamağa və yükləməyə imkan verir?
+- [ ] StoragesData
+- [ ] SaverData
+- [ ] PickerFile
+- [x] TinyDB
+- [ ] HandlerFile
+430. MIT App Inventor-da ekrana toxunma hadisələrini idarə etmək üçün hansı bloklardan istifadə olunur?
+- [ ] TouchEvent
+- [ ] TouchHandler
+- [ ] Sensor sensor
+- [ ] GestureRecognizer
+- [x] Ekrana toxunmaq ilə
+431. MIT App Inventor istifadə edərək mətn mesajı necə göndərilir?
+- [ ] MessageSender
+- [ ] EmailSender
+- [ ] TextMessageSender
+- [x] SMS komponentləri ilə
+- [ ] MessagingServices
+432. MIT App Inventor-da döngələr yaratmaq üçün hansı bloklardan istifadə olunur?
+- [x] Each və If-Else üçün blokları
+- [ ] Each və keçid üçün
+- [ ] Loop
+- [ ] If-Else və Loop
+- [ ] For Each
+433. MIT App Inventor-da tətbiqinizə səs effekti necə əlavə olunur?
+- [ ] AudioPlayer
+- [x] Səs komponentləri
+- [ ] Media player
+- [ ] SoundRecorder
+- [ ] Recorder Sound
+434. Mobil qurğular üçün oyunun qrafik dizaynını seçərkən nə nəzərə alınmalıdır?
+- [ ] Batareya istehlakı
+- [ ] RAM bolluğu
+- [ ] 3D qrafik istifadə
+- [ ] Yüksək ekran çözünürlüyü
+- [x] Məhdud cihaz seçimləri
+435. Niyə 3D qrafika istifadəsi oyun inkişaf prosesini çətinləşdirə bilər?
+- [ ] Batareya artır
+- [x] Hesablama gücü kifayət qədər deyil
+- [ ] RAM tələb olunur
+- [ ] Ekran ölçüsü artır
+- [ ] Ustalığla tələb olunur-yüksək səviyyə
+436. Oyunda süjet nədir?
+- [ ] Qrafik dizayn
+- [ ] Cihazın texniki xüsusiyyətləri
+- [ ] Məhdud imkanlar
+- [x] Hadisələrin ardıcıllığı
+- [ ] Qrafika
+437. Oyun inkişafının hansı tərəfi, işin nəticəsi əhəmiyyətli qazanc gətirməsə də, təcrübəsiz bir gəliştiricinin bacarıq səviyyəsini artıra bilər?
+- [ ] Məhdud mobil cihaz seçimləri
+- [ ] Audio
+- [ ] Qrafik dizayn
+- [x] Düşünülmüş proses
+- [ ] Qrafika
+438. Tətbiqdə öz jestlərinizi istifadə etmək üçün hansı interfeys metodunu tətbiq etməlisiniz?
+- [ ] onTouchMove()
+- [ ] onFlingCapture()
+- [ ] onmotiondo rejimində şəkillər()
+- [x] onGesturePerformed()
+- [ ] onSwipeRecognize()
+439. Jest tanıma üçün XML (Extensible Markup Language) fəaliyyət sənədinə hansı komponent əlavə edilməlidir?
+- [ ] MotionRecognizer
+- [ ] Bax
+- [ ] TouchRecognizer
+- [x] GestureOverlayView
+- [ ] GestureDetector
+440. Gesture Builder-i Android Virtual cihazında (AVD) istifadə edərkən yaradılan jestlər harada saxlanılır?
+- [ ] Bulud saxlama
+- [ ] Tətbiq önbelleğinde
+- [x] Virtual cihazların SD kartında
+- [ ] Sistem bazasında
+- [ ] Daxili yaddaşda
+441. 1.6 versiyasından etibarən Android Virtual cihazına (AVD) hansı əvvəlcədən quraşdırılmış proqrama daxildir və jestlər yaratmaq üçün nəzərdə tutulub?
+- [ ] Gesture Create
+- [ ] Motion Do
+- [ ] Basaraq yaradın
+- [ ] Swipe Move
+- [x] Gesture Builder
+442. 1.6 versiyasından başlayaraq jestlərlə işləmək üçün hansı Android paketində API (Application Programming Interface) var?
+- [ ] android.touch
+- [ ] android.tap
+- [ ] android.events
+- [x] android.gesture
+- [ ] android.motion
+443. GestureDetector sinfi Android OS-də standart jestləri tanımaq üçün hansı metodları dəstəkləyir?
+- [ ] onTouch(), onFling(), onDo()
+- [ ] onTouchEvent(), onGestureRecognized(), onGestureComplete()
+- [ ] , onGestureStart(), onGestureEnd(), onGestureMove()
+- [x] onDown(), onLongPress(), onFling()
+- [ ] onSingleTap(), onDoubleTap(), onSwipe()
+444. Tətbiqin standart jestlərdən istifadə etməsi lazımdırsa, hansı sinifdən istifadə edə bilərsiniz?
+- [x] GestureDetector
+- [ ] StandardGesture
+- [ ] TouchHandle
+- [ ] GestureMove
+- [ ] MotionMove
+445. Hansı motionevent sinif sabitləri barmağınızın ekranda hərəkət etməsini müəyyənləşdirir?
+- [ ] MotionEvent.ACTION_OUT
+- [ ] MotionEvent.ACTION_UP
+- [ ] MotionEvent.ACTION_DOWN
+- [x] MotionEvent.ACTION_MOVE
+- [ ] Hərəkət hadisəsi.FƏALİYYƏT LƏĞV EDİLİR
+446. MotionEvent obyekti onTouchEvent metoduna hansı məlumatları təqdim edir?
+- [ ] Şəbəkədəki cihazların sayı
+- [ ] Yalnız ekran rəngi
+- [ ] Yalnız ekran ölçüsü
+- [x] Bütün qarşılıqlı əlaqələrin təfərrüatlarını
+- [ ] Yalnız cihaz istiqaməti
+447. Jest necə bitir?
+- [x] Final tədbirinin alınması ilə
+- [ ] Barmaq hərəkət
+- [ ] Kəşf
+- [ ] Bütün düymələri basaraq
+- [ ] Dönmə
+448. Duyğu hadisələrini idarə etmək üçün fəaliyyət sinifində və ya komponentdə hansı metod tətbiq olunur?
+- [ ] detectGesture()
+- [x] onTouchEvent
+- [ ] ScreenMove screentouchrecognize()
+- [ ] TouchEventshandle ()
+- [ ] onTouchScreenhandle()
+449. Hansı sinif fərdi sensor hadisələri idarə etmədən standart jestləri tanımağa imkan verir?
+- [ ] Proses
+- [ ] GestureMake
+- [ ] TouchRecognize
+- [ ] MotionHandle
+- [x] GestureDetector
+450. Jestin son hadisəsini hansı hərəkətlər müəyyənləşdirir?
+- [x] Barmağın ekrandan qaldırılması
+- [ ] Dönüş
+- [ ] Düymələrin sıxılması
+- [ ] Düymələrə basmaq
+- [ ] Barmaq ekran ətrafında hərəkət
+451. Analizatorlar və sensor sistemləri neçə şöbədən ibarətdir?
+- [ ] 2
+- [ ] 6
+- [ ] 4
+- [ ] 5
+- [x] 3
+452. Stimul, xarici qıcıq faktorları enerjisinin reseptorlara ötürülməsini təmin edən əlavə anatomik formasiyaları olan analizatorun adı nədir?
+- [ ] mobil sistem
+- [ ] əməliyyat sistemi
+- [ ] informasiya sistemi
+- [ ] rabitə sistemi
+- [x] sensor sistemi
+453. Hisslərin formalaşmasına və mövzu haqqında ümumi fikrə xüsusi uyğunlaşdırılmış vahid funksional sistem variantlardan sistem hansıdır?
+- [ ] əməliyyat sistemi
+- [x] analizator
+- [ ] sensor sistemi
+- [ ] mobil sistem
+- [ ] informasiya sistemi
+454. "Xarici və ya daxili mühitdən gələn stimulların (xarici qıcıq faktorları) qavranılmasına və təhlilinə xüsusi uyğunlaşdırılmış funksional sistem" variantlardan hansıdır?
+- [ ] informasiya sistemi
+- [x] analizator
+- [ ] mobil sistem
+- [ ] sensor sistemi
+- [ ] əməliyyat sistemi
+455. "Reseptorlarla başlayan və beyin qabığının hüceyrələrində yaranan vahid funksional sistem" dedikdə variantlardan hansıdır?
+- [ ] sensor sistemi
+- [ ] əməliyyat sistemi
+- [ ] informasiya sistemi
+- [x] analizator
+- [ ] mobil sistem
+456. I. P. Pavlov fiziologiyaya hansı ildə "analizator" terminini daxil edib?
+- [ ] 1939-cu ildə
+- [ ] 1989-cu ildə
+- [ ] 1919-cu ildə
+- [x] 1909-cu ildə
+- [ ] 1990-cı ildə
+457. Fiziologiyaya "analizator" termini kim tərəfindən daxil edilmişdir?
+- [ ] R. Merton
+- [ ] X. Delgado
+- [ ] U. Gibson
+- [x] I. P. Pavlov
+- [ ] P. Lazasfeld
+458. "İnsanın zehni fəaliyyəti sensor sistemləri və sensor məlumatları mexanizmi əsas işdir" dedikdə variantlardan hansıdır?
+- [ ] üç mexanizm
+- [ ] mexanizm dişliləri
+- [ ] beş mexanizm
+- [x] iki mexanizm
+- [ ] dörd mexanizm
+459. Hansı ifadələr Neyrofizioloq X. Delqadoya aid deyil ki, əgər uşaq bir neçə il sensor (duyğu) məlumatlarından məhrumdursa, onda ....?
+- [ ] belə bir varlıq zehni funksiyalardan tamamilə məhrum olardı.
+- [ ] Beyni boş və düşüncəsiz olardı
+- [ ] Fiziki cəhətdən yetkinləşərək, ad günündə olduğu kimi intellektual olaraq ibtidai bir masa olaraq qalacaqdı
+- [ ] yaddaşına sahib olmazdı və ətrafda baş verənləri başa düşə bilməzdi
+- [x] xarici stimullarla təmasda olmadan normal inkişaf edərdi
+460. Dövrümüzün neyrofizioloqlarından hansı yazırdı ki, bir uşaq bir neçə il sensor (duyğu) məlumatlarından məhrum olsaydı, belə bir varlıq zehni funksiyalardan tamamilə məhrum olardı?
+- [ ] R. Merton
+- [ ] U. Gibson
+- [ ] P. Lazasfeld
+- [x] X. Delgado
+- [ ] G. Daxili
+461. Hansı məlumatlar olmadan orqanizm inkişaf edə bilməzdi?
+- [ ] aktual məlumat
+- [ ] rəqəmsal məlumat
+- [ ] mobil məlumat
+- [x] sensor məlumatları
+- [ ] etibarlı məlumat
+462. Ətraf mühitin tələblərinə uyğun olaraq daxili orqanların fəaliyyətinin və davranışının təşkili üçün hansı məlumatlar böyük əhəmiyyət kəsb edir?
+- [ ] mobil məlumat
+- [ ] aktual məlumat
+- [ ] etibarlı məlumat
+- [x] sensor məlumatları
+- [ ] rəqəmsal məlumat
+463. Texnoloji təkamül istiqaməti ən yeni hansı sistemlərin formalaşmasına səbəb oldu?
+- [ ] mobil sistemlər
+- [ ] rəqəmsal sistemlər
+- [ ] rabitə sistemləri
+- [x] sensor sistemləri
+- [ ] informasiya sistemləri
+464. "Müxtəlif həyat şəraitində mövcud stimulların keyfiyyət və kəmiyyət təhlilini həyata keçirən sistemlər" dedikdə aşağıdakı variantlardan hansı nəzərdə tutulur?
+- [ ] rabitə sistemləri
+- [ ] rəqəmsal sistemlər
+- [ ] mobil sistemlər
+- [ ] informasiya sistemləri
+- [x] sensor sistemləri
+465. Bədənin xarici dünya və daxili vəziyyəti haqqında vaxtında uyğunlaşma reaksiyası üçün məlumat əldə etməsinin vacib edən əsas vəzifəsi ilə əlaqədar hansı xüsusiyyət xüsusi inkişaf edirlr?
+- [ ] öz qorxusu
+- [x] qıcıqlanma xüsusiyyəti
+- [ ] narazılıq mülkiyyəti
+- [ ] məmnuniyyət mülkiyyəti
+- [ ] güvən mülkiyyəti
+466. MIT App Inventor-da cihazın cari yerini tapmaq üçün hansı komponentdən istifadə olunur?
+- [ ] DeviceLocation
+- [ ] GPS komponenti
+- [ ] MapViewer
+- [x] Yer sensoru
+- [ ] GeoLocation
+467. Yerli MIT App Inventor anbarında məlumatların saxlanması üçün hansı məlumat formatları dəstəklənir?
+- [ ] Wi-Fi
+- [ ] JSON və BPA
+- [ ] ISCSİ
+- [x] JSON və XML
+- [ ] JSON və GRE
+468. MIT App Inventor-da şəkilləri göstərmək üçün hansı komponentdən istifadə olunur?
+- [ ] Textbox
+- [ ] MediaRecorder
+- [ ] Imagegallery komponent
+- [x] View Image
+- [ ] ImagePicker
+469. MIT App Inventor-da "bloklar" nədir?
+- [ ] Tətbiq dizaynının vizual təqdimatı
+- [ ] Cihaz sensorları ilə işləmək üçün modul
+- [ ] Qrafik interfeys elementi
+- [ ] BİG DATA strukturunun qrafik təsviri
+- [x] Mətn formalarında təqdim olunan kodlar
+470. MIT App Inventor-da tətbiqləri inkişaf etdirmək üçün hansı proqramdan istifadə olunur?
+- [ ] Visual Studio
+- [ ] Xcode
+- [x] MIT App Inventor
+- [ ] Android Studio
+- [ ] Eclipse
+471. Geolokasiyada "geoset" texnologiyası nədir?
+- [ ] Geostasionar peyklər şəbəkəsi
+- [ ] Geofens şəbəkəsi
+- [ ] Geo-saxtakarlıqdan qorunma şəbəkəsi
+- [x] Məkan təyinetmə cihazları şəbəkəsi
+- [ ] Qlobal giriş nöqtələri şəbəkəsi
+472. Mobil şəbəkənin siqnal gücünə əsaslanan yer texnologiyası üçün hansı termin istifadə olunur?
+- [ ] Geostasionar peyklər
+- [ ] İnertial sayğaclar
+- [ ] Hiperlokasiya
+- [x] Cell ID - cell site or base station
+- [ ] Geofensings
+473. Geotagging nədir?
+- [ ] Coğrafi xəritələrdə reklamların yerləşdirilməsi
+- [ ] Geodatların icazəsiz girişlərdən qorunması
+- [ ] Geostasionar peyklər üçün etiketlərin yaradılması
+- [x] Coğrafi Yer koordinatlarının təyini
+- [ ] Məlumat analizinə əsaslanan yer proqnozu
+474. Metro və ya tunel kimi yeraltı strukturlarda geolokasiyanı hansı texnologiyalar təmin edir?
+- [ ] İnfraqırmızı sensorlar
+- [ ] Atmosfer təzyiqi sensorları
+- [ ] Geostasionar peyklər
+- [x] İnnertial sayğac
+- [ ] Ultrasonik sensorlar
+475. Geolokasiya kontekstində "hiperlokasiya" (hyperlocalization) texnologiyası nədir?
+- [x] Binaların içərisində yüksək dəqiqliklə geolokasiya
+- [ ] Hiperbolik əyrilərdən istifadə edərək geolokasiya
+- [ ] Bir neçə santimetrə qədər yer tapmaq
+- [ ] Geolokasiyalar üçün hiper mətn məlumatlarından istifadə
+- [ ] Təhlil yolu ilə Yerin proqnozlaşdırılması
+476. Geoindikatorlar geolokasiyada hansı rolu oynayırlar?
+- [x] Xəritələrdə cari yeri göstərmək
+- [ ] Coğrafi enliyin tərifi
+- [ ] Ən yaxın mobil cihazın identifikasiyası
+- [ ] Geo-saxtakarlıqdan qorunma
+- [ ] Siqnal gecikmə vaxtının ölçülməsi
+477. Müstəqil robotlarda və ya dronlarda geolokasiya üçün aşağıdakı texnologiyalardan hansı istifadə edilə bilər?
+- [ ] GPS
+- [ ] Lidar
+- [ ] Ultra-Wideband (UWB)
+- [ ] İnertial sayğac
+- [x] Göstərilən sistemlərin hər biri
+478. Geolokasiyada "coğrafi miqyas" texnologiyası hansı üstünlüyü təmin edir?
+- [ ] Coğrafi məlumat quruluşunun təhlili
+- [ ] Dəniz səviyyəsindən yüksəkliyin təyini
+- [ ] Ölçmə dəqiqliyinin artırılması
+- [x] Əraziyə avtomatik uyğunlaşma
+- [ ] Əlavə peyklərin yerləşdirilməsi
+479. GPS söndürüldükdə belə mobil cihazlarda geolokasiyanı hansı üsullar təmin edir?
+- [ ] İnertial sayğac
+- [ ] Texnologiya
+- [ ] Bluetooth
+- [ ] CellID
+- [x] Göstərilən sistemlərin hər biri
+480. Geolokasiya kontekstində "geospufinq" nədir?
+- [ ] Coğrafi yedeklərin yaradılması
+- [ ] GPS marşrutlarının proqramlaşdırılması
+- [ ] Coğrafi cəhətdən məhdud məzmundan qorunma
+- [ ] Yerləri anonimləşdirmək üçün saxta koordinatlardan istifadə
+- [x] Yanıltma (aldatma) məqsədi ilə geodatların saxta verilməsi
+481. Güclü geomaqnit fırtınasında geolokasiyanın dəqiqliyinə hansı amillər təsir edə bilər?
+- [ ] Atmosferdəki temperatur dəyişiklikləri
+- [ ] RF səs-küy səviyyəsi
+- [ ] Maqnit sensor
+- [ ] Gəzən peyklərin təsiri
+- [x] Göstərilən sistemlərin hər biri
+482. Ontouchevent metodu çağırışı nə vaxt başlayır?
+- [ ] Barmaqların hər hərəkəti ilə
+- [ ] Yalnız jestlərlə
+- [ ] Yalnız təkərlər dönəndə
+- [x] Ekrana toxunduqda
+- [ ] Barmaqları qaldırarkən
+483. Hansı motionevent class sabit və hər hansı bir toxunma hadisəsi və ya jest üçün başlanğıc nöqtəsi olan barmağınızla ekrana toxunmağı təyin edir?
+- [ ] MotionEvent.ACTION_MOVE
+- [ ] MotionEvent.ACTION_OUTSIDE
+- [ ] Hərəkət hadisəsi.AKTİV_MACK
+- [x] MotionEvent.ACTION_DOWN
+- [ ] MotionEvent.ACTION_DO
+484. İstifadəçi toxunma ekranı ilə əlaqə qurarkən hansı əsas hərəkətləri edə bilər?
+- [ ] Üz jestləri
+- [ ] Ekranı sola çəkin
+- [ ] Düyməni basıb saxlayın
+- [x] Barmaqla ekrana toxunma
+- [ ] Təkər fırlanması
+485. Smartfonlarda interfeyslə işləmək üçün hansı texnologiyalardan istifadə olunur?
+- [ ] Fiziki düymələr və joyistiklər
+- [ ] Yalnız fiziki düymələr
+- [ ] Üç ölçülü qrafiklərdən istifadə edən ekranlar
+- [x] Touch-interfeys, virtual nəzarət, gestures
+- [ ] Səs nəzarəti
+486. Android ilə işləyən smartfonlar üçün tətbiqlər foto və video ilə işləmək üçün hansı imkanları təmin edir?
+- [ ] Yalnız audio faylları qeyd edin
+- [ ] İmkanlar yoxdur
+- [ ] Yalnız görüntü emalı
+- [x] Səs və videonun qeydini və səsləndirilməsini və şəkillərlə işləməyi birləşdirmək
+- [ ] Yalnız video faylları oynayır
+487. Android OS-də Media çərçivəsi hansı media fayl formatlarını dəstəkləyir?
+- [ ] Yalnız mətn fayl formatları
+- [ ] Şəkil formatları
+- [ ] Yalnız audio fayl formatları
+- [x] Əsas ümumi medianı
+- [ ] Yalnız video fayl formatları
+488. GPS istifadə edən tətbiqlər üçün vacib məlumat nədir?
+- [ ] Avtomatik SMS göndərmə
+- [ ] Avtobus marşrutlarının planlaşdırılması
+- [ ] İnstagram ilə işləyin
+- [x] Cihaz və ev sahibi koordinatlarının alınması
+- [ ] Ay üçün hava izləmə
+489. GPS peykləri ilə məşq zamanı işləyən proqramdan hansı məlumatları əldə etmək olar?
+- [ ] Bir neçə gün ərzində temperatur
+- [ ] Valyuta Məzənnəsi
+- [ ] Aylıq xəbərlər
+- [x] Səyahət vaxtı, məsafə, qalxma/enmə, orta sürət və s.
+- [ ] Batareya səviyyəsi (faizlə)
+490. Virtual idarəetmələrdən istifadə nəyə imkan verir?
+- [ ] Yalnız bir düyməyə sahib olmaq
+- [ ] Ekranın olmaması
+- [x] Ekranın toxunma həssaslığına
+- [ ] Yalnız fiziki düymələr
+- [ ] Yüksək ekran çözünürlüyü
+491. GPS smartfonu üçün hansı funksiya faydalı hesab edilə bilər?
+- [ ] Adımları saymaq
+- [ ] Mətn sənədlərinin işlənməsi
+- [ ] Bir çox oyundan istifadə
+- [x] İdmançının parametrlərini izləmək
+- [ ] Audio faylları çalın
+492. Smartfon hansı funksiyaları yerinə yetirir?
+- [x] Prosessor və əməliyyat sistemi birdən çox funksiyanı yerinə yetirməyə imkan verir
+- [ ] Yalnız telefon xüsusiyyətləri
+- [ ] Yalnız kompüter funksiyaları
+- [ ] Yalnız foto görüntüləmə xüsusiyyətləri
+- [ ] Əlavə funksiyaların olmaması
+493. Multitouch nə deməkdir?
+- [ ] Yalnız bir barmaq istifadə etmək imkanı
+- [x] Çox barmaq basqılı qarşılıqlı əlaqə üçün istifadə etmək imkanı
+- [ ] Yalnız bir barmağın istifadəsində məhdudiyyət
+- [ ] Ekrana toxunma qabiliyyətinin olmaması
+- [ ] Stylus istifadə məhdudiyyəti
+494. Touch interfeysi smartfonlarda nəyə imkan verir?
+- [ ] Yalnız stylus istifadə
+- [ ] Yalnız səsdən istifadə
+- [ ] İdarəetmənin olmaması
+- [x] Sadə toxunuşla virtual idarəetmələrin seçilməsinə
+- [ ] Yalnız fiziki düymədən istifadə
+495. GPS modulu əksər smartfonlarda hansı rol oynayır?
+- [ ] Audio faylları çalın
+- [ ] Barmaq izi oxuyucusu
+- [ ] Audio faylları qeyd edin
+- [x] Yerli oriyentasiya
+- [ ] Video zənglərin aparılması
+496. Smartfon ekranının toxunuşa həssaslığını nə təmin edir?
+- [ ] Həssaslığın olmaması
+- [ ] Səhifə sürüşməsi
+- [ ] Fiziki düymələr
+- [x] Virtual idarəetmə elementləri ilə qarşılıqlı əlaqə
+- [ ] Stylus istifadə
+497. Kamera ilə işi təsvir edərkən smartfonların hansı xüsusiyyətini vurğulamaq olar?
+- [ ] GPS varlığı
+- [ ] Video və mahnıları oynamaq imkanı
+- [ ] Söz işləmə qabiliyyəti
+- [x] Kameranın olması
+- [ ] Sensor istifadə etmək imkanı
+498. Aşağıdakı texnologiyalardan hansı yüksək en kəsiklərə və qütblərə yaxınlıq şəraitində geolokasiyanı təmin edir?
+- [ ] Galileo
+- [ ] Geostasionar peyklər
+- [ ] BeiDou
+- [x] GLONASS
+- [ ] QZSS
+499. Geolokasiyada "IP yeri" texnologiyası nədir?
+- [ ] Şeylər internetində geodata təhlili
+- [ ] IP ilə yüksəklik tərifi
+- [ ] Geomaqnit sahələrini hesablamaq üçün IP ünvanlarından istifadə
+- [ ] IP protokolu vasitəsilə GPS siqnallarının ötürülməsi
+- [x] IP ünvanının coğrafi koordinatları ilə yerləşmə
+500. Aşağı enerji istehlakı (aşağı güc) şəraitində geolokasiya üçün hansı texnologiyalardan tez-tez istifadə olunur?
+- [ ] Geostasionar peyk
+- [ ] Kamera texnologiyası
+- [ ] İnfraqırmızı sensor
+- [x] BLE -Bluetooth Low Energy
+- [ ] GPS
+501. Bir binanın içərisində, xüsusən də böyük ticarət mərkəzlərində yerləşmək üçün hansı texnologiyalardan istifadə edilə bilər?
+- [x] Göstərilən sistemlərin hər biri
+- [ ] Bluetooth
+- [ ] RFID
+- [ ] Geostasionar peyk
+- [ ] Geofensinq
+502. Aşağıdakı texnologiyalardan hansı xarici şəbəkələrə qoşulmadan binaların içərisində geolokasiya təmin edir?
+- [ ] Geostasionar peyklər
+- [ ] RFID-texnologiya
+- [x] İnertial sayğac
+- [ ] BLE
+- [ ] Triangulyasiya
+503. Mobil şəbəkələr geolokasiyada hansı rolu oynayır?
+- [ ] Giriş nöqtələrinin koordinatlarının ötürülməsi
+- [ ] Geomaqnit sahəsinin ölçülməsi
+- [ ] Məsafəni təyin etmək üçün siqnal gecikmə vaxtının ölçülməsi
+- [ ] Peyk GPS siqnallarının yayımı
+- [x] Geodata mobil qüllələr vasitəsilə ötürülməni
+504. Geolokasiya kontekstində "geolokasiya" nədir?
+- [x] Geodata icazəsiz girişdən qorunma vasitələri
+- [ ] Mobil cihazları zərərdən qorumaq üçün proqram
+- [ ] Coğrafi cəhətdən məhdud məzmunu taramalardan qorumaq
+- [ ] Geostasionar peyklərin kosmik təsirlərdən qorunması
+- [ ] GPS istifadə edərkən müdaxilə sistemi
+505. Aşağıdakı amillərdən hansı sıx meşə şəraitində geolokasiyanın düzgünlüyünə təsir göstərə bilər?
+- [ ] Ağacların sayı
+- [x] Göstərilən sistemlərin hər biri
+- [ ] Ağaclarda yarpaqların sıxlığı
+- [ ] Sıx ağacların maneələri
+- [ ] Bitki mənşəli elektromaqnit müdaxilə
+506. Yüksək binalar və şəhərsalma şəraitində geolokasiyanı təmin etmək üçün hansı üsullardan istifadə olunur?
+- [ ] A-GPS texnologiyası
+- [ ] Lazer məsafə sayğacı
+- [ ] Geostasionar peyklər
+- [x] İnfraqırmızı sensor
+- [ ] Triangulyasiya
+507. Geolokasiya kontekstində "geoanalitika" nədir?
+- [ ] Geolokasiya cihazının proqramlaşdırılması
+- [ ] Geostasionar peyklərlə qarşılıqlı əlaqə
+- [ ] Coğrafi cəhətdən məhdud məzmunun bloklanmasını atlamaq üsulu
+- [x] Praktik nəticələr əldə etmək üçün coğrafi məlumatların təhlili
+- [ ] Geo-saxtakarlığın qarşısının alınması texnologiyası
+508. Daxili geolokasiya cihazlarında hansı sensorlar tez-tez istifadə olunur?
+- [ ] Giroskop
+- [ ] Akselerometr
+- [ ] Barometr
+- [x] Göstərilən sistemlərin hər biri
+- [ ] Kamera
+509. GPS siqnallarının nüfuz edə bilmədiyi daxili geolokasiya üçün aşağıdakı texnologiyalardan hansı istifadə edilə bilər?
+- [ ] RFID
+- [ ] Bluetooth
+- [ ] NFC
+- [x] Yuxarıda göstərilənlərin hər biri
+- [ ] İnfraqırmızı sensor
+510. Geolokasiyada "Geopraving" nədir?
+- [ ] İstiqamətləri dəqiq müəyyənləşdirmək üçün cihaz
+- [ ] Obyektlərin hərəkətinin video izlənməsi
+- [x] Coğrafi məlumatların müəyyən bir yerə bağlanması
+- [ ] RF səs-küy səviyyəsinin ölçülməsi metodu
+- [ ] GPS siqnal emal proqramı
+511. GPS istifadə edərkən binalarda geolokasiya dəqiqliyinə aşağıdakılardan hansı təsir göstərə bilər?
+- [x] Göstərilən sistemlərin hər biri
+- [ ] Pəncərələrin sayı
+- [ ] Naviqasiya qəbuledicilərinin səsləri
+- [ ] Elektromaqnit müdaxilə
+- [ ] Tikinti materialı
+512. Aşağıdakı texnologiyalardan hansı görünən yer peyklərindən gələn siqnallara əsaslanan geolokasiya təmin edir?
+- [ ] Mars Peykləri
+- [ ] Ay Peyki
+- [ ] Geostasionar peyklər
+- [x] Süni peyk
+- [ ] Rabitə peykləri
+513. Müasir smartfonların ön panelinin hansı hissəsini ekran tutur?
+- [ ] Yalnız aşağı
+- [ ] Yalnız üst
+- [ ] Sahənin çox kiçik bir hissəsi
+- [ ] Yarım sahə
+- [x] Demək olar ki, bütün sahə
+514. Smartfonun "ağıllı telefon" kimi istifadəsini nə nəzərdə tutur?
+- [ ] Fiziki düyməyə ehtiyac
+- [ ] Aşağı ekran çözünürlüyü
+- [ ] Kiçik cihaz ölçüsü
+- [ ] Əməliyyat sisteminin olmaması
+- [x] Əməliyyat sisteminin mövcudluğu və əlavə tətbiqlərin quraşdırılması
+515. Mobil cihazlar üçün sürüşmə interfeysini inkişaf etdirərkən hansı xüsusiyyətləri nəzərə almaq lazımdır?
+- [ ] Ekran yönümünə məhəl qoymamaq
+- [ ] Əlavə kitabxanaya ehtiyac yoxdur
+- [ ] Maksimum ekran sayından istifadə
+- [x] Toxunma ekranı ilə qarşılıqlı əlaqənin rahatlığı
+- [ ] Yalnız mətn elementindən istifadə etmək imkanı
+516. Mobil tətbiqlərdə ekranların sürüşməsi hansı üstünlükləri təmin edir?
+- [ ] Proqramlaşdırma mürəkkəbliyinin azaldılması
+- [x] Ekran oturacaqlarına qənaət etmək
+- [ ] Nəzarətlərin daha böyük görünməsi
+- [ ] Ekran çözünürlüyündən asılılıq
+- [ ] Fiziki düymə üçün optimallaşdırma
+517. Smartfonların toxunma ekranları üçün ekranları çevirməyin ən əlverişli yolu nədir?
+- [ ] Yuxarı və "aşağı"düymələri
+- [ ] Sensora basmaq
+- [ ] Müxtəlif klaviaturalardan istifadə
+- [ ] Sensorlar üzərində süründürün
+- [x] Düymələrdən və idarəetmələrdən istifadə ilə
+518. Android OS-də bildirişlər nə üçündür?
+- [ ] Tətbiqdə əlavə seçimləri göstərin
+- [ ] Bir tarix və ya vaxt seçin
+- [x] Üst bildiriş çubuğunda mesajı göstərmək
+- [ ] İcra prosesi xəttini göstərin
+- [ ] Ekranda bir ipucu göstərin
+519. DialogFragment sinifindən istifadə edərkən dialoqun davranışını necə idarə etmək olar?
+- [ ] Sistem parametrlərində parametrlərin təyin edilməsi
+- [ ] Tətbiq kodunda parametrlərin qurulması
+- [ ] Daxili idarəetmə düymələrindən istifadə
+- [ ] Manifest faylını redaktə etmək
+- [x] DialogFragment sinifindən istifadə ilə
+520. Tətbiq inkişafında cihazın ekran ölçüsü məhdudiyyətini həll etməyin hansı yolları nəzərdən keçirilir?
+- [ ] İkincil ekranlardan istifadə
+- [x] Fəaliyyətə asan keçid qabiliyyəti ilə komponentləri yerləşdirmək
+- [ ] Müxtəlif mesajlardan və informasiya qutularından istifadə
+- [ ] Bir neçə fəaliyyətdən istifadə
+- [ ] Komponentlərin ölçüsünün azaldılması
+521. Birdən çox ekranı göstərmək üçün tək fəaliyyətdən istifadə hansı üstünlükləri təmin edir?
+- [ ] Manifest faylının redaktəsini tələb etmir
+- [x] Proqramçılar və istifadəçilər üçün əlverişlilik
+- [ ] Tətbiqin sürətini artırır
+- [ ] Təhlükəsizlik səviyyəsini artırır
+- [ ] Cihazın resurs istehlakını azaldır
+522. Eyni vaxtda fəaliyyət üçün ekrana qoyulduğundan daha çox element necə yerləşdirilə bilər?
+- [ ] Əlavə ekranlardan istifadə
+- [x] Fəaliyyət hissələri arasında sürüşdürmə ilə
+- [ ] Elementləri gizlətmək
+- [ ] İkincil fəaliyyətlərdən istifadə
+- [ ] Fəaliyyət ölçüsünün artması
+523. Toxunma ekranından istifadə edərək fəaliyyətlər arasında keçid edərkən hansı əsas ideyadan istifadə etmək təklif olunur?
+- [ ] Avtomatik keçid
+- [ ] Klaviatura ilə keçid
+- [ ] Ekranın yalnız yuxarı hissəsindən istifadə
+- [x] Bütün ekrandan istifadə üçün idarə etmək
+- [ ] Sola sürüşdürün
+524. Çox aktivli bir tətbiqdə funksionallığın paylanmasına diqqət yetirmək niyə vacibdir?
+- [ ] Tətbiqin təhlükəsizliyini artırmaq üçün
+- [ ] İstifadəçi interfeysini yaxşılaşdırmaq üçün
+- [ ] Manifest fayllarının ölçüsünü azaltmaq üçün
+- [ ] Tətbiqi sürətləndirmək üçün
+- [x] Ekranın məlumatla çox yüklənməməsi üçün
+525. Android OS-də çox pəncərə tətbiqləri üçün hansı məhdudiyyət xarakterikdir?
+- [ ] Quraşdırılmış kitabxananın sayının məhdudlaşdırılması
+- [ ] İstifadəçi fəaliyyətinin məhdudlaşdırılması
+- [ ] Cihazın ekran ölçüsü məhdudiyyəti
+- [ ] Tətbiqdəki fəaliyyət sayının məhdudlaşdırılması
+- [x] Eyni vaxtda görünən məhdud sayda element
 `;

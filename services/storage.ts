@@ -66,6 +66,17 @@ export const storage = {
     }
   },
 
+  // Clear all saved questions
+  clearAllSavedQuestions: () => {
+    try {
+      const data = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');
+      data.savedQuestionIds = [];
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
+    } catch (e) {
+      console.error("Failed to clear saved questions", e);
+    }
+  },
+
   // Save the current session state by serializing references
   saveSession: (session: ExamSession | null, allOriginalQuestions: Question[]) => {
     try {

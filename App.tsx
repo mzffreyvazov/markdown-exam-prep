@@ -142,6 +142,13 @@ const App: React.FC = () => {
     });
   };
 
+  const handleClearAllSaved = () => {
+    if (window.confirm(`Are you sure you want to delete all ${savedQuestions.length} saved questions? This action cannot be undone.`)) {
+      setSavedQuestions([]);
+      storage.clearAllSavedQuestions();
+    }
+  };
+
   const getSavedIds = () => savedQuestions.map(q => q.uniqueId);
 
   // Wrapper to update session and implicitly persist it via useEffect
@@ -240,6 +247,7 @@ const App: React.FC = () => {
               }
               else setMode(AppMode.SETUP);
             }}
+            onClearAll={handleClearAllSaved}
           />
         );
       

@@ -1,0 +1,5 @@
+{
+  "name": "Markdown Exam Prep",
+  "description": "A focused exam practice tool that parses Markdown files into interactive quizzes with range selection, randomization, and bookmarking capabilities.",
+  "requestFramePermissions": []
+}

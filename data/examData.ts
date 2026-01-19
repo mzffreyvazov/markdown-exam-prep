@@ -1,5 +1,4 @@
-export const markdownContent = `
-1. Yer üçün trilaterasiya texnologiyası necə işləyir?
+export const markdownContent = `1. Yer üçün trilaterasiya texnologiyası necə işləyir?
 - [ ] Qonşu Bluetooth cihazları ilə qarşılıqlı əlaqə
 - [ ] Yaxınlıqdakı GPS peykindən bucaq sapmalarının ölçülməsi
 - [ ] Siqnal gücünün təyini
@@ -1199,4 +1198,1204 @@ export const markdownContent = `
 - [ ] Yeni versiya
 - [x] Geniş telekommunikasiya xidmətləri üçün operator imkanı verən texnologiya
 - [ ] Şəbəkədəki genişzolaqlı multimedia tətbiqetmələri üçün dəstək sistemi
+201. İnternet vasitəsilə İnternetə çıxış imkanı hansı üstünlükləri təmin edir?
+- [ ] Şəbəkələrə daxil olmaq üçün xüsusi lisenziya tələb olunur
+- [ ] Şəbəkə konfiqurasiyasına ehtiyac yoxdur
+- [x] İcazəsi olan istifadəçilər üçün İnternetə çıxış
+- [ ] Hər hansı bir serverə qoşulma İnternet
+- [ ] Bütün istifadəçilər üçün İnternetə çıxış
+202. Wi-Fi texnologiyası şirkətin korporativ imicində hansı rol oynayır?
+- [ ] Təsiri yoxdur
+- [ ] Maliyyə itkisinə səbəb olur
+- [ ] Firmaların korporativ imicinin əhəmiyyəti yoxdur
+- [x] İşi asanlaşdıran rabitə vasitəsi (internet bağlantılı) kimi işləyir
+- [ ] Firmaların statusunu azaldır
+203. Tətbiq çərçivəsinə daxil olmayan Komponentlər?
+- [ ] Views
+- [ ] Location Manager
+- [ ] Fəaliyyət rəhbəri
+- [x] Surface Manager
+- [ ] Content Providers
+204. Tətbiq çərçivəsinə hansı Komponentlər daxil deyil?
+- [ ] Content Providers
+- [ ] Notification Manager
+- [ ] Resurs meneceri
+- [x] Surface Manager
+- [ ] Views
+205. "Dalvik virtual maşın üçün icra olunan format, minimum yaddaş istifadəsi üçün optimallaşdırılmışdır" dedikdə aşağıdakı variantlardan hansını ifadə edir?
+- [ ] DX
+- [ ] SDK
+- [x] DEX
+- [ ] IDE
+- [ ] ADT
+206. "Dalvik virtual maşınında icra üçün genişləndirilmiş Java dərsləri icra edilə bilən sənədlərə işlənir" dedikdə aşağıdakı variantlardan hansını ifadə edir?
+- [ ] .dx
+- [ ] .apk
+- [ ] .db
+- [x] .dex
+- [ ] .bx
+207. "Standart C dil kitabxanası, yəni onun BSD Linux (Berkeley Software Distribution) əsaslı cihazlarda işləmək üçün konfiqurasiya edilmiş tətbiq" aşağıdakı variantlardan hansını ifadə edir?
+- [ ] Media Framework
+- [ ] 3D Kitabxanalar
+- [ ] SSL
+- [x] Libc
+- [ ] SQLite
+208. "Eyni adlı kriptoqrafik protokolu dəstəkləmək üçün kitabxanalar" dedikdə aşağıdakı variantlardan hansını ifadə edir?
+- [ ] FreeType
+- [x] SSL
+- [ ] SQLite
+- [ ] Media Framework
+- [ ] 3D Kitabxanalar
+209. "2D qrafika ilə işləmək üçün açıq mühərrik, qrafik kitabxana Google məhsuludur və tez-tez digər proqramlarda da istifadə olunur" dedikdə aşağıdakı variantlardan hansını ifadə edir?
+- [ ] FreeType
+- [ ] Media Framework
+- [ ] SQLite
+- [x] Skia Graphics Engine
+- [ ] 3D Kitabxanalar
+210. "2D qrafika ilə işləmək üçün açıq mühərrik, qrafik kitabxanalar Google-un məhsuludur və tez-tez digər proqramlarda istifadə olunur" dedikdə aşağıdakı variantlardan hansını ifadə edir?
+- [ ] 3D Kitabxanalar
+- [x] SGL
+- [ ] Media Framework
+- [ ] SQLite
+- [ ] FreeType
+211. "Google Chrome və Apple Safari brauzerlərində də istifadə olunan Vebkit brauzer mühərrikinin kitabxanaları dedikdə" aşağıdakı variantlardan hansını ifadə edir ?
+- [ ] Media Framework
+- [ ] 3D Kitabxanalar
+- [ ] FreeType
+- [x] LibWebCore
+- [ ] SQLite
+212. "Bit kartları ilə işləmək, şriftləri rasterləşdirmək (rasterizing) və üzərində əməliyyatlar aparmaq üçün kitabxana" aşağıdakı variantlardan hansını ifadə edir ?
+- [ ] Səth meneceri
+- [ ] SSL
+- [ ] 3D kitabxana
+- [ ] SQLite
+- [x] FreeType
+213. "Yüksək optimallaşdırılmış 3D qrafika, o cümlədən aparat sürətləndirilməsi üçün istifadə olunur. Kitabxanalar OpenGL / ES API əsasında həyata keçirilir" dedikdə aşağıdakı variantlardan hansı başa düşülür?
+- [ ] SQLite
+- [ ] Media çərçivəsi
+- [ ] FreeType
+- [x] 3D Kitabxanalar
+- [ ] Surface Manager
+214. Yüngül və məhsuldar əlaqəli DBMS (Database management system Software), Android-də verilənlər bazası ilə işləmək üçün əsas mühərrik kimi istifadə olunur dedikdə aşağıdakı variantlardan hansı başa düşülür?
+- [ ] Surface Manager
+- [ ] FreeType
+- [x] SQLite
+- [ ] 3D Kitabxanalar
+- [ ] Media Framework
+215. "Packet Video Open CORE əsasında tətbiq olunan kitabxanalar audio və video məzmunu qeyd etmək və oynamaq, həmçinin statik şəkillər çıxarmaq üçün istifadə olunur" dedikdə aşağıdakı variantlardan hansı başa düşülür?
+- [ ] 3D Kitabxanalar
+- [ ] FreeType
+- [ ] Surface Manager
+- [ ] SQLite
+- [x] Media Framework
+216. "Gələn çəkiliş əmrlərinin ekrandan kənar buferə toplandığı, yığıldığı, müəyyən bir kompozisiya hazırladığı və sonra ekranda göstərildiyi kompozit pəncərə meneceri. Bu, sistemə maraqlı problemsiz effektlər, o cümlədən pəncərə şəffaflığı və hamar keçidlər yaratmağa imkan verir" dedikdə aşağıdakı variantlardan hansı başa düşülür?
+- [ ] Media Framework
+- [ ] FreeType
+- [x] Surface Manager
+- [ ] 3D Kitabxanalar
+- [ ] SQLite
+217. Viktor Maksimova görə, hansı işçi qrupları WI-FI girişindən ən çox istifadə edirlər?
+- [ ] Katiblər və köməkçilər
+- [ ] İstehsal və anbar işçiləri
+- [ ] Marketoloqlar və Reklamçılar
+- [ ] Mühasiblər və hüquqşünaslar
+- [x] İT şöbələrinin top menecerləri və işçiləri
+218. Pulsuz Wi-Fi nöqtələri üçün hazırlanmış şərti işarələr hansı rol oynayır?
+- [ ] İnternet bağlantısı
+- [ ] Vi-fi əlaqələrinin fəaliyyət aralığının genişləndirilməsi
+- [ ] Siqnal keyfiyyətinin yaxşılaşdırılması
+- [ ] İstifadəçi yeri
+- [x] Giriş nöqtələrinin identifikasiyası
+219. Adi bir ev kompüterinin istifadəçisi şəbəkəyə necə qoşula bilər?
+- [ ] Simsiz şəbəkə yalnız noutbuklar üçün mövcuddur
+- [ ] Mobil telefonların istifadəsi ilə
+- [ ] Daxili dəstəyi ilə yeni kompüter alınması ilə
+- [ ] Xüsusi lisenziyalar olmadan qoşula bilməzsiniz
+- [x] Wi-Fi dəstəyi ilə xüsusi bir kart əldə etməklə
+220. Wi-Fi dəstəyi olan cihazlar bir-birinə necə qoşula bilər?
+- [ ] İnternet kanalları vasitəsilə
+- [ ] Kabel vasitəsilə
+- [ ] Cihazların giriş nöqtəsi vasitəsilə
+- [x] Birbaşa (cihazdan cihaza)
+- [ ] Yalnız server vasitəsilə
+221. İstifadəçi bir neçə giriş nöqtəsinin diapazonunda olarsa, Wi-Fi zonasına qoşulma necə baş verir?
+- [ ] Ən aşağı ötürmə sürəti ilə giriş nöqtəsi seçilir
+- [ ] Ən uzun mənzilli giriş nöqtəsi seçilir
+- [ ] Şəbəkədə ən az yük olan nöqtəyə avtomatik qoşulma var
+- [ ] İstifadəçi istədiyiniz giriş nöqtəsini əl ilə seçməlidir
+- [x] Avtomatik olaraq ən güclü siqnal ilə giriş nöqtəsinə qoşulur
+222. Simsiz şəbəkənin nüvəsi nədir?
+- [ ] Noutbuklar və mobil cihazlar
+- [ ] Radio siqnalları
+- [ ] İnternet kanalları
+- [x] Giriş nöqtəsi (Access Point)
+- [ ] Yüksək hesablama gücü serverləri
+223. Wi-Fi texnologiyası hansı üç vacib problemi həll edir?
+- [ ] Faylları çap edin, serverlərə giriş təmin edin, yerli şəbəkə yaradın
+- [ ] Cəmiyyətin məlumatlandırılması, təhsil, iş üçün rahat şərait
+- [ ] Mobil kompüterlə ünsiyyəti asanlaşdırmaq, yerli şəbəkə yaratmaq, serverə girişi təmin etmək
+- [x] İş üçün rahat şəraitin təmin edilməsi, yerli şəbəkənin yaradılması, mobil kompüterlə ünsiyyətin sadələşdirilməsi
+- [ ] İnformasiyalaşdırma, təhsil, məlumatların ötürülməsi və ünsiyyət üzrə yeni layihələrin həyata keçirilməsi
+224. Wi-Fi texnologiyası hansı üstünlükləri təmin edir?
+- [ ] Aşağı enerji istehlakı
+- [ ] 10Hz tezlik istifadə
+- [ ] Alqoritmin yüksək hesablama mürəkkəbliyi
+- [x] Serverlərə və tətbiqlərə simsiz giriş
+- [ ] Uzun ötürmə diapazonu
+225. Wi-Fi standartı nə vaxt fəal şəkildə təbliğ olunmağa başladı?
+- [ ] 1989
+- [ ] 1995
+- [ ] 2003
+- [ ] 1991
+- [x] 2000
+226. Yaxın gələcəkdə yeni giriş nöqtələrinin görünməsi üçün hansı yerlərə üstünlük veriləcəkdir?
+- [ ] Yalnız sərgi komplekslərində
+- [ ] Yalnız biznes mərkəzlərində
+- [ ] Yalnız ən çox ödəyən müştərilərin toplandığı yerlərdə
+- [ ] Yalnız otellərdə
+- [x] Ən çox ödəmə qabiliyyətli müştərilərin iş mərkəzlərində, sərgi komplekslərində, otellərdə, restoranlarda və hava limanında toplandığı yerlərdə
+227. Hansı simsiz texnologiya standartı 5GHz-də işləyir və maksimum 54 Mbps sürəti təmin edir?
+- [ ] 802.11g
+- [ ] 802.11b
+- [ ] 802.11c
+- [ ] 802.11n
+- [x] 802.11a
+228. Simsiz Wi-Fi texnologiyasında giriş nöqtəsi (access point) funksiyalarını nə yerinə yetirir?
+- [ ] Tel məlumat ötürülməsi
+- [ ] Doğru ifadələr yoxdur
+- [ ] Faylları çap edin
+- [x] Serverə və tətbiqə simsiz girişin təmin edilməsi
+- [ ] Verilənlər bazası saxlama
+229. 802.11 g standartı hansı maksimum məlumat ötürmə sürətini təmin edir?
+- [ ] 105 Mbps
+- [ ] 203 Mbps
+- [ ] 25 Mbps
+- [ ] 11 Mbps
+- [x] 54 Mbps
+230. 802.11 b standartında məlumat ötürmək üçün hansı tezlik diapazonundan istifadə olunur?
+- [ ] 4 GHz
+- [ ] 10 GHz
+- [ ] 2.0 Ghz
+- [ ] 1.2 Ghz
+- [x] 2.4-2.4835 GHz
+231. Wi-Fi standartı nə vaxt qeydə alınıb?
+- [ ] 1986
+- [ ] 2010-cu il
+- [ ] 2020
+- [x] 1999
+- [ ] 2006-cı il
+232. "Kitabxanalar C / C++ dilində tətbiq olunur və altında tərtib olunur" dedikdə aşağıdakı variantlardan hansı başa düşülür?
+- [ ] şəbəkə təminatı
+- [ ] sistem dəstəyi
+- [x] avadanlıq
+- [ ] informasiya dəstəyi
+- [ ] proqram təminatı
+233. Aşağıdakı variantlardan tətbiq kitabxanaları hansı seçim funksiyalarına aid deyil?
+- [x] şəbəkə və "DRİVER"lərlə işləmək
+- [ ] fayl formatları üçün dəstək verir
+- [ ] üst siniflər üçün tətbiq olunan alqoritmlər təklif edin
+- [ ] qrafik göstərilməsini həyata keçirir
+- [ ] məlumatların kodlaşdırılmasını və dekodlaşdırılmasını həyata keçirir
+234. Hansı seçim kernel sistem xidmətlərinə aid deyil?
+- [ ] şəbəkə və sürücülərlə işləmək
+- [x] qrafik göstərilməsini həyata keçirir
+- [ ] təhlükəsizlik
+- [ ] yaddaş idarəetmə
+- [ ] enerji sistemi və prosesləri
+235. "Aparat və proqram təminatı arasında aralıq səviyyə kimi xidmət edir" dedikdə aşağıdakı variantlardan hansı başa düşülür?
+- [x] Linux OS nüvəsi
+- [ ] oxşar
+- [ ] Microsoft OS nüvəsi
+- [ ] Unix OS nüvəsi
+- [ ] iOS OS nüvəsi
+236. "Əvvəlcədən quraşdırılmış əsas proqramlar dəsti" dedikdə aşağıdakı variantlardan hansı başa düşülür?
+- [ ] level of information retention
+- [ ] Application Framework
+- [ ] Libraries & Android Runtime
+- [x] Applications
+- [ ] Linux Nüvəsi
+237. "Əvvəlcədən quraşdırılmış əsas proqramlar dəsti" dedikdə aşağıdakı variantlardan hansı başa düşülür?
+- [ ] tətbiq Çərçivə səviyyəsi
+- [ ] kitabxana dəsti və icra mühiti
+- [x] tətbiq səviyyəsi
+- [ ] əsas səviyyə
+- [ ] məlumatın saxlanması qaydası
+238. Tərtibatçılara kitabxana səviyyəli sistem komponentləri tərəfindən verilən API-lərə (application programming interface) giriş imkanı verir dedikdə aşağıdakı variantlardan hansı başa düşülür?
+- [ ] məlumat təhlükəsizliyi səviyyəsi
+- [ ] Libraries & Android Runtime
+- [ ] Linux Kernel
+- [x] Application Framework
+- [ ] Applications
+239. Tərtibatçılara kitabxana səviyyəli sistem komponentləri tərəfindən verilən API-lərə giriş imkanı verir dedikdə aşağıdakı variantlardan hansı başa düşülür?
+- [ ] əsas səviyyə
+- [ ] məlumat saxlama səviyyəsi
+- [x] tətbiq çərçivəsi səviyyəsi
+- [ ] tətbiq səviyyəsi
+- [ ] kitabxana dəsti və iş vaxtı
+240. "Proqramlar üçün ən vacib əsas funksionallığı təmin edir, Dalvik virtual maşını və Android tətbiqetmələrini işə salmaq üçün lazım olan əsas Java kitabxanalarını ehtiva edir" dedikdə aşağıdakı variantlardan hansı başa düşülür?
+- [ ] Applications
+- [ ] Linux Kernel
+- [ ] level of information retention
+- [x] kitabxana dəsti və icra mühiti (Libraries & Android Runtime)
+- [ ] Tətbiq platforması
+241. "Proqramlar üçün ən vacib əsas funksionallığı təmin edir, Dalvik virtual maşını və Android tətbiqetmələrini işə salmaq üçün lazım olan əsas Java kitabxanalarını ehtiva edir" dedikdə aşağıdakı variantlardan hansı başa düşülür?
+- [ ] tətbiq çərçivəsi səviyyəsi
+- [ ] tətbiq səviyyəsi
+- [ ] əsas səviyyə
+- [ ] məlumat saxlama səviyyəsi
+- [x] kitabxana dəsti və icra mühiti (Libraries & Android Runtime)
+242. "Həmçinin, cihazın texniki təminat səviyyəsi ilə proqram təminatı arasındakı abstraksiya səviyyəsi" dedikdə aşağıdakı variantlardan hansı başa düşülür?
+- [x] Linux Kernel
+- [ ] level of information retention
+- [ ] Applications
+- [ ] Tətbiq platforması
+- [ ] Libraries & Android Runtime
+243. "Cihazın texniki təminat səviyyəsi ilə proqram təminatı arasındakı abstraksiya səviyyəsi" dedikdə aşağıdakı variantlardan hansı başa düşülür?
+- [ ] məlumatın saxlanması qaydası
+- [ ] tətbiq səviyyəsi
+- [ ] tətbiq çərçivəsi səviyyəsi
+- [x] əsas səviyyə
+- [ ] kitabxana dəsti və icra mühiti
+244. Hansı seçim Android sisteminin proqram şəbəkəsinə, o cümlədən aid deyil?
+- [ ] Libraries & Android Runtime
+- [ ] Linux Kernel
+- [ ] Applications
+- [ ] Tətbiq platforması
+- [x] informasiyanın tutulub saxlanılması səviyyəsi (level of information retention)
+245. Blok elementlərinin sərhəd ölçüsünü təyin etmək üçün hansı CSS 3 (Cascading Style Sheets) xassəsindən istifadə olunur?
+- [ ] border-size
+- [ ] border-collapse
+- [ ] border-style
+- [x] border-width
+- [ ] border-image
+246. CSS 3-ün (Cascading Style Sheets) hansı xassəsi birdən çox fon şəkillərindən istifadə etməyə imkan verir və laylı effekt yaradır?
+- [ ] background-color
+- [ ] multiple-backgrounds
+- [ ] background-repeat
+- [x] background-image
+- [ ] background-gradient
+247. Dairəvi künclər əlavə etmək üçün hansı CSS 3(Cascading Style Sheets) xassəsindən istifadə olunur?
+- [ ] border-collapse
+- [ ] border-inside
+- [ ] border-style
+- [ ] border-size
+- [x] border-radius
+248. CSS (Cascading Style Sheets) ilə hansı formatlama seçimləri dəyişdirilə bilər?
+- [ ] Yalnız mətn rəngi
+- [x] Mətn ölçüləri, mətn rəngi və sətir təsviri
+- [ ] Yalnız mətnin Təsviri
+- [ ] Mətn ölçüləri və mətn rəngi
+- [ ] Yalnız mətn ölçüləri
+249. Intel-in yeni XDK  (Xbox Development Kit) versiyası hansı əsas xüsusiyyətləri təqdim edir?
+- [ ] Yalnız yerli plaginlərdən istifadə etmək imkanı
+- [ ] Məhdud inkişaf vasitələri
+- [ ] Yalnız Android Tətbiq dəstəyi
+- [x] Cihaz emulyatoru, sazlayıcı və montaj alətləri
+- [ ] İOS üçün böyük inkişaf sürəti
+250. Mobil HTML5 tətbiqetmələrinin inkişafında çərçivələrin istifadəsi hansı üstünlükləri təmin edir?
+- [ ] Üslub və komponent seçiminin məhdudlaşdırılması
+- [x] İnkişaf sürətini yaxşılaşdırmaq və kodların təkrar istifadəsini təmin etmək
+- [ ] Tətbiq performansının azaldılması
+- [ ] Yalnız bir platforma dəstəyi
+- [ ] Kod mürəkkəbliyini artırın
+251. Hansı texnologiyalar mobil HTML5 tətbiqetmələrində yerli məlumatların saxlanmasını təmin edir?
+- [ ] SQLite və MongoDB
+- [x] LocalStorage və SessionStorage
+- [ ] JSON və XML
+- [ ] REST API və GraphQL
+- [ ] Cookies və veb ST
+252. Mobil HTML5 tətbiqləri üçün inkişaf vasitələri hansı əsas komponentlərə daxildir?
+- [ ] Səs kartı və monitor
+- [x] Kod redaktoru, sazlayıcı, test vasitələri
+- [ ] İstifadəçi interfeysi və verilənlər bazası
+- [ ] Əməliyyat sistemi və sürücü
+- [ ] Klaviatura və siçan
+253. Proqressiv veb tətbiqi (PVA) nədir?
+- [ ] Verilənlər bazası növü
+- [ ] Brauzerlər üçün uzantı
+- [ ] Şəkil emal proqramı
+- [x] Tətbiq funksionallığı ilə veb sayt və ya veb tətbiq
+- [ ] Tətbiq qeyd proqramı
+254. HTML5 mobil inkişaf üçün hansı əsas üstünlükləri təmin edir?
+- [x] Çarpaz platforma
+- [ ] İnternet olmadan işləyin
+- [ ] Cihazın aparat resurslarına yerli giriş
+- [ ] Daha sürətli hesablama
+- [ ] Yalnız onlayn tətbiq üçün
+255. JavaScript kontekstində skript nədir?
+- [ ] Animasiya
+- [ ] Şəkil
+- [ ] Məlumat
+- [x] HTML sənədlərindən çağırılan proqram
+- [ ] Elektron sənədlər
+256. CSS 3 üç ölçülü mühitə hansı istiqamətdə addım atdı?
+- [ ] Təkmilləşdirilmiş animasiya
+- [ ] Mətn üçün kölgələri təyin etmək imkanı əlavə etdi
+- [ ] Rəng sxemini dəyişdirdi
+- [ ] Yeni şriftlər təqdim etdi
+- [x] Veb məkanını hərəkət etdirmək imkanı
+257. CSS 3- də hansı xüsusiyyət arxa plan şəkillərinin ölçüsünü brauzerin ölçüsünə avtomatik olaraq dəyişdirməyə imkan verir?
+- [x] background-size
+- [ ] background-color
+- [ ] image-color
+- [ ] auto-background
+- [ ] resize-background
+258. Görünüşü formatlaşdırmaqda CSS (Cascading Style Sheets”) üslublarının adi HTML-dən üstünlüyü nədir?
+- [ ] Animasiyalar yaratmaq imkanı
+- [ ] Fon şəkilləri əlavə etmək imkanı
+- [ ] HTML ilə müqayisədə formatlaşdırma asanlığı
+- [ ] Göz rəngini təyin etmək bacarığı
+- [x] Mətnin rəngini və konturunu təyin etmək imkanı
+259. HTML5 texnologiyası yeni standart kimi necə tanınacaq?
+- [ ] Google
+- [x] W3C (World Wide Web Consortium)
+- [ ] Opera
+- [ ] Mozilla
+- [ ] Azure
+260. İnternet tətbiqləri sahəsinə yeni HTML standartı nə əlavə etdi?
+- [ ] Naviqasiya üçün menyu
+- [ ] Animasiya üçün effektlər
+- [ ] Yeni rənglər və şriftlər
+- [x] Məlumatların daxil edilməsi və yoxlanılması üçün yeni elementlər
+- [ ] Daxili mətn redaktorları
+261. Hansı seçim Android sisteminin proqram şəbəkəsinə aid deyil?
+- [ ] əsas səviyyə
+- [x] məlumat saxlama səviyyəsi
+- [ ] tətbiq səviyyəsi
+- [ ] tətbiq çərçivəsi səviyyəsi
+- [ ] kitabxana dəsti və icra mühiti
+262. Hansı seçim Android xüsusiyyətlərinə aid deyil?
+- [ ] fayl sisteminə və daxili SQLite verilənlər bazasına girişi dəstəkləyir
+- [x] limitsiz yaddaş
+- [ ] fon icrasını dəstəkləyir tapşırıq;
+- [ ] istifadəçi interfeysi elementlərinin zəngin bir kitabxanasını təmin edir;
+- [ ] OpenGL interfeysindən istifadə edərək 2D və 3D qrafikləri dəstəkləyir;
+263. Variantlardan hansı Android mobil platformasının inkişafı və inkişafı üzrə bütün prosesləri idarə edir?
+- [ ] DDMS
+- [ ] AOSP
+- [ ] OHA
+- [x] Google
+- [ ] Proqram inkişafı üçün SDK
+264. Android mobil platformasının inkişafı üzrə texniki siyasət variantlardan hansı konsorsium tırıfındən idarə olunur?
+- [ ] AOSP
+- [ ] DDMS
+- [ ] SDK
+- [x] OHA
+- [ ] Google
+265. Android mobil platformasının inkişafı və inkişafı layihə çərçivəsində həyata keçirilir
+- [ ] OHA
+- [ ] DDMS
+- [ ] SDK
+- [x] AOSP (Android Open Source Project)
+- [ ] Google
+266. Variantlardan hansı  seçim OS nüvəsinə əsaslanan Android platforması əməliyyat sistemini, orta proqramı və quraşdırılmış mobil tətbiqləri birləşdirir?
+- [ ] Unix
+- [ ] Microsoft
+- [ ] Pəncərələr
+- [x] Linux
+- [ ] IOS
+267. Android versiyaları sırasındakı adların ilk hərfləri variantlardan hansı seçimə uyğundur?
+- [ ] kiril əlifbasının hərfləri
+- [x] latın əlifbasının hərfləri
+- [ ] ərəb rəqəmləri
+- [ ] latın əlifbasının hərflərinin sonundan başlayaraq
+- [ ] yunan əlifbasının hərfləri
+268. Hər bir versiyanın adı variantlardan hansı seçimə uyğundur?
+- [ ] meyvə
+- [ ] mövzu
+- [ ] məhsul
+- [x] desert
+- [ ] tərəvəz
+269. Android-in ilk versiyasının adı nə idi?
+- [ ] Alma sirkəsi
+- [ ] Blackberry
+- [ ] Apple
+- [ ] Apple juice
+- [x] Apple Pie
+270. Android-in ilk versiyası hansı ildə təqdim edildi?
+- [ ] 2006
+- [ ] 2009
+- [ ] 2010
+- [x] 2008
+- [ ] 2007
+271. OHA - Open Handset Alliance birliyinə aid deyil:
+- [x] Beko
+- [ ] Motorola
+- [ ] NVIDIA
+- [ ] Texas Instruments
+- [ ] Qualcomm Şirkəti
+272. OHA - Open Handset Alliance tərkibinə daxil deyil:
+- [x] Beko
+- [ ] LG Electronics
+- [ ] Samsung Electronics
+- [ ] Sprint Corporation
+- [ ] T-Mobile
+273. OHA - Open Handset Alliance tərkibinə daxil deyil:
+- [ ] Qualcomm
+- [ ] Intel
+- [ ] Motorola
+- [x] Beko
+- [ ] Texas Instruments
+274. OHA - Open Handset Alliance tərkibinə daxil deyil:
+- [ ] Sony
+- [ ] Dell
+- [ ] Google
+- [ ] HTC
+- [x] Beko
+275. 80-dən çox şirkətdən ibarət konsorsium səylərini mobil cihazlar üçün açıq standartların hazırlanmasına yönəldir
+- [ ] AOSP
+- [ ] AVD
+- [ ] DDMS
+- [x] OHA- Open Handset Alliance
+- [ ] SDK
+276. 2005-ci ilin avqust ayında Android Inc. hansı şirkətin törəmə şirkətə çevrildi?
+- [x] Google
+- [ ] Internet Explorer
+- [ ] Safari
+- [ ] Yahoo
+- [ ] Yandex
+277. 2005-ci ilin avqust ayında hansı şirkət Google-un törəmə şirkəti oldu?
+- [ ] UNİX SERVER
+- [ ] Linux
+- [ ] MS DOS
+- [ ] Windows
+- [x] Android
+278. Android Inc. hansı ildə Google-un törəmə şirkəti oldu?
+- [ ] 2004
+- [ ] 2006
+- [ ] 2007
+- [x] 2005
+- [ ] 2001
+279. Android Inc. hansı ştatda quruldu?
+- [ ] San Diego əyaləti
+- [ ] San Francisco əyaləti
+- [ ] Florida ştatı
+- [x] Kaliforniya ştatı
+- [ ] Kanzas ştatı
+280. Android Inc. hansı ildə quruldu?
+- [ ] 2004
+- [ ] 2000
+- [ ] 2001
+- [x] 2003
+- [ ] 2005
+281. Android Inc. şirkətini kim qurdu?
+- [ ] R. Merton
+- [ ] H. Delgado
+- [ ] I. Pavlov
+- [x] E. Rubin
+- [ ] U. Gibson
+282. Hazırda mobil cihazlar üçün ən çox istifadə olunan əməliyyat sistemi hansıdır?
+- [ ] Microsoft
+- [ ] IOS
+- [ ] böyürtkən
+- [ ] Bada
+- [x] Android
+283. "Mobil cihazlar üçün əməliyyat sistemi: smartfonlar, planşet kompüterlər, PDA" dedikdə aşağıdakı variantlardan hansı başa düşülür?
+- [ ] MS DOS
+- [ ] Linux
+- [ ] UNİX SERVER
+- [x] Android
+- [ ] Windows
+284. Peykin işi apogeydə olduqda həyata keçirilir dedikdə aşağıdakı variantlardan hansı başa düşülür?
+- [ ] orta orbital
+- [ ] geostasionar
+- [ ] aşağı orbital
+- [x] yüksək elliptik
+- [ ] zona SMRS
+285. Hansı HTML elementi Foto, illüstrasiya, qrafik və qrafik elementlərini qruplaşdırmağa imkan verir?
+- [ ] <color>
+- [ ] <illustration>
+- [ ] <visual>
+- [x] <figure>
+- [ ] <img>
+286. Audio və video faylları daxil etmək üçün hansı HTML elementlərindən istifadə olunur?
+- [ ] < musiqi > və < visual>
+- [ ] < musiqi > və < play>
+- [ ] < sound > və < visual>
+- [x] <audio > və <video>
+- [ ] < playback > və < listen >
+287. HTML-də iki ölçülü şəkillər və dinamik animasiyalar yaratmaq üçün hansı etiket istifadə olunur?
+- [ ] <image>
+- [ ] <audio>
+- [x] <canvas>
+- [ ] <video>
+- [ ] <figure>
+288. HTML dilinin işlədiyi əmrlər toplusunun adı nədir?
+- [ ] Parametr
+- [ ] Sintaksis
+- [ ] Atribut
+- [x] Tags
+- [ ] HTML əmrləri
+289. HTML-də məlumat təqdimetmə formasını göstərmək üçün hansı qeydlər istifadə olunur?
+- [ ] Seçimlər
+- [ ] İstinadlar
+- [ ] Skriptlər
+- [x] TAG
+- [ ] Atributlar
+290. HTML dili nə vaxt hazırlanmışdır?
+- [ ] 1999
+- [ ] 2003-cü il
+- [ ] 1995
+- [x] Ötən əsrin 80-ci illərinin sonunda
+- [ ] 2001-ci il
+291. HTML (Hipertext Mark-up Languages), CSS (Cascading Style Sheets”) və Javascript texnologiyalarının əsasını hansı prinsiplər təşkil edir?
+- [ ] Maksimum performans prinsipləri
+- [ ] Açıqlıq və üçüncü tərəf kitabxana dəstəyinin olmaması prinsipləri
+- [x] Sadəlik, modulluq, uyğunluq və genişlənmə prinsipləri
+- [ ] Kod eksklüzivliyi və dözümsüzlük prinsipləri
+- [ ] Mürəkkəblik və dar ixtisaslaşma prinsipləri
+292. Cihazda Intel XDK (Xbox Development Kit) istifadə edərək hazırlanmış bir tətbiq necə işləyir?
+- [ ] Yalnız layihəni toplamaq və montaj nəticəsini cihazlarda qurmaq
+- [x] Hər iki seçim: Intel XDK tətbiq ön izləməsinin quraşdırılması və layihənin qurulması
+- [ ] Yalnız Intel XDK app önizleme proqramını quraşdıraraq
+- [ ] Yalnız Google Play Store-dan tətbiqlərin quraşdırılmasına icazə verməklə
+- [ ] Yalnız quraşdırma *.Google Play mağazasından apk
+293. Intel XDK (Xbox Development Kit ) emulatorunun əsas üstünlüyü nədir?
+- [ ] Hər şey üçün universal həll
+- [ ] Brauzer quraşdırılmasına ehtiyac yoxdur
+- [ ] Yalnız akselerometrin işinin modelləşdirilməsi
+- [ ] Fərqli memarlıq prosessor əmrlərindən istifadə edir
+- [x] Sürətli başlanğıc və aşağı resurs istehlakı
+294. Intel XDK (Xbox Development Kit) mühitinin əsas komponentləri hansılardır?
+- [ ] Yalnız bulud xidməti
+- [ ] Yalnız kod redaktoru
+- [ ] Yalnız cihaz emulyatoru
+- [x] Redaktor, cihaz emulyatoru, sazlayıcı, istifadəçi interfeysi kitabxanası, tətbiq proqram interfeysləri və bulud xidmətləri
+- [ ] Yalnız istifadəçi interfeysi kitabxanası
+295. Intel XDK-da şablon əsaslı tətbiq inkişafı necə aparılır?
+- [ ] Yalnız daxili nümunələrdən istifadə etməklə
+- [ ] Yalnız App Designer istifadə
+- [ ] Yalnız konstruktor rejimində
+- [x] Kod və konstruktor rejimində
+- [ ] Yalnız kod rejimində
+296. Tərtibatçılar Intel XDK-da (Xbox Development Kit) qeydiyyatdan keçdikdən sonra hansı xidməti alırlar?
+- [ ] Yalnız mobil cihazlara pulsuz giriş
+- [x] Bulud saxlama
+- [ ] Intel donanım faydaları
+- [ ] Android inkişaf mühitinə pulsuz giriş
+- [ ] JavaScript dilinin yeni versiyalarına eksklüziv giriş
+297. Intel XDK-nın (Xbox Development Kit) hansı çatışmazlıqları var?
+- [ ] Bulud xidmətləri dəstəyinin olmaması
+- [ ] İnterfeys yaratmaq üçün alətlərin olmaması
+- [ ] Linux əməliyyat sistemi üçün məhdud dəstək
+- [x] Html5 tətbiqlərinin yavaş icrası və böyük resurs tələbləri
+- [ ] Kod redaktorunun olmaması
+298. Intel-in yeni XDK (Xbox Development Kit) versiyası hansı əsas xüsusiyyətləri təqdim edir?
+- [ ] Yalnız iOS tətbiqləri yaratmaq üçün vasitələr
+- [ ] Pulsuz inkişaf mühiti
+- [ ] Yalnız JavaScript dili dəstəyi
+- [x] Çarpaz platforma, prototipləmə vasitələri, sazlama, proqram qurma və cihaz emulyatoru
+- [ ] Yalnız Android üçün inkişaf
+299. Peyk geostasionar orbitdədir, hündürlüyü təxminən 36 min km-dir dedikdə aşağıdakı variantlardan hansı başa düşülür?
+- [ ] aşağı orbital
+- [x] geostasionar
+- [ ] orta orbital
+- [ ] zona SMRS
+- [ ] yüksək elliptik
+300. Təkrarlayıcı vasitəsilə sabit kanal dedikdə aşağıdakı variantlardan hansı başa düşülür?
+- [ ] geostasionar
+- [ ] yüksək elliptik
+- [ ] aşağı orbital
+- [x] zona SMRS
+- [ ] orta orbital
+301. Təkrarlayıcılardan istifadə edin, sistem, o cümlədən avtomatik olaraq ən yaxşısını seçir dedikdə aşağıdakı variantlardan hansı başa düşülür?
+- [ ] aşağı orbital
+- [ ] zona
+- [ ] yüksək elliptik
+- [x] mobil radio rabitə sistemi
+- [ ] orta orbital
+302. Təkrarlayıcılardan istifadə edin, sistem avtomatik olaraq ən yaxşısını seçir dedikdə aşağıdakı variantlardan hansı başa düşülür?
+- [ ] aşağı orbital
+- [ ] orta orbital
+- [x] radial zonalı memarlıq sistemləri
+- [ ] zona
+- [ ] yüksək elliptik
+303. Abunəçi stansiyaları və mərkəzi stansiya — kommutator və dairəvi şüa nümunəsi olan ötürücü dəsti dedikdə aşağıdakı variantlardan hansı başa düşülür?
+- [ ] yüksək elliptik
+- [x] radial memarlıq sistemləri
+- [ ] aşağı orbital
+- [ ] orta orbital
+- [ ] şəxsi radio zəng sistemi
+304. Hansı sinif radio rabitə sistemi peyk mobil radio rabitəsinə aid deyil
+- [ ] orta orbital
+- [ ] şəxsi radio zəng sistemi
+- [ ] radial memarlıq sistemləri
+- [x] mobil SMRS
+- [ ] geostasionar
+305. Hansı sinif radio rabitə sistemi peyk mobil radio rabitəsinə aid deyil?
+- [ ] yüksək elliptik
+- [ ] aşağı orbital
+- [x] mobil SMRS
+- [ ] orta orbital
+- [ ] geostasionar
+306. Hansı sinif radio rabitə sistemi yerüstü mobil radio rabitəsinə aid deyil?
+- [ ] şəxsi radio zəng sistemi
+- [ ] zona SMRS
+- [ ] radial memarlıq sistemləri
+- [x] geostasionar
+- [ ] mobil SMRS
+307. Hansı sinif radio rabitə sistemi yerüstü mobil radio rabitəsinə aid deyil?
+- [ ] mobil SMRS
+- [ ] radial memarlıq sistemləri
+- [ ] radial zonalı memarlıq sistemləri
+- [x] geostasionar
+- [ ] şəxsi radio zəng sistemi
+308. Mobil radio rabitə sistemi (peyk və yerüstü) neçə növə təsnif edilir?
+- [ ] 3
+- [ ] 4
+- [x] 2
+- [ ] 5
+- [ ] 6
+309. Kabeldən istifadə etmədən abunəçi xətlərinə daxil olan və abunəçi cihazı ilə əlaqə radio kanalı vasitəsilə həyata keçirilən rabitə metodu aşağıdakılardan hansıdır?
+- [ ] hava radio rabitəsi
+- [ ] yüzüncü radio rabitəsi
+- [ ] sensor radio rabitəsi
+- [ ] rabitə radio rabitəsi
+- [x] mobil radio rabitəsi
+310. Siqnal inteqrasiyası hansı formasiyada xüsusilə genişdir?
+- [ ] talamik
+- [ ] kortikal
+- [ ] spinal
+- [ ] bitişik
+- [x] retikulyar
+311. "Sensor sistemlərinin qarşılıqlı əlaqəsi həyata keçirilmir" dedikdə aşağıdakı variantlardan hansı başa düşülür?
+- [ ] onurğa ziyanı
+- [ ] kortikal səviyyə
+- [ ] talamik səviyyə
+- [ ] retikulyar səviyyədə
+- [x] bitişik səviyyələrdə
+312. Sözdə "əzələ hissi", bədənin ayrı-ayrı hissələrinin mövqeyi və hərəkəti hissi dedikdə aşağıdakı variantlardan hansı başa düşülür?
+- [ ] vizual hiss
+- [ ] qoxu hissi
+- [ ] dad hissi
+- [x] kinestetik hiss
+- [ ] eşitmə hissi
+313. "Sözdə "əzələ hissi", bədənin ayrı-ayrı hissələrinin mövqeyi və hərəkəti" dedikdə aşağıdakı variantlardan hansı başa düşülür?
+- [ ] qoxu hissi
+- [ ] eşitmə hissi
+- [ ] vizual hiss
+- [x] kinesteziya
+- [ ] dad hissi
+314. Uzaq duyğu sistemlərinə aşağıdakı daxildir:
+- [ ] dad
+- [ ] Olfaktör
+- [x] vizual
+- [ ] dəri-əzələ
+- [ ] müdafiə
+315. Uzaq duyğu sistemlərinə, o cümlədən aşağıdakı daxildir:
+- [ ] dad
+- [ ] müdafiə
+- [ ] dəri-əzələ
+- [x] eşitmə
+- [ ] Olfaktör
+316. Uzaq duyğu sistemlərinə, o cümlədən aşağıdakı daxildir:
+- [ ] Olfaktör
+- [ ] dad
+- [ ] dəri-əzələ
+- [ ] müdafiə
+- [x] vestibulyar
+317. Əlaqə sensor sistemlərinə aşağıdakı daxildir:
+- [ ] müdafiə
+- [ ] eşitmə
+- [ ] vestibulyar
+- [x] dəri-əzələ
+- [ ] vizual
+318. Əlaqə sensor sistemlərinə, o cümlədən aşağıdakı daxildir:
+- [ ] vizual
+- [x] Olfaktör
+- [ ] eşitmə
+- [ ] vestibulyar
+- [ ] müdafiə
+319. MotionEvent obyekti toxunma ekranı ilə əlaqə qurarkən hansı məlumatları təqdim edir?
+- [ ] Hava şəraiti
+- [ ] Batareya vəziyyəti
+- [ ] Ekranda görünən rənglər
+- [x] Bütün qarşılıqlı əlaqələrin təfərrüatlarını
+- [ ] İstifadəçinin coğrafi koordinatları
+320. Android-də hansı kitabxana OpenGL açıq qrafik kitabxanasından istifadə edərək yüksək performanslı 2D və 3D qrafika nəyi təqdim edir?
+- [ ] RenderKitEngine
+- [ ] 3DGraphicsMaya
+- [ ] GraphicsEngine
+- [x] OpenGL ES
+- [ ] OpenGL SE
+321. Toxunma ekranı ilə əlaqə qurarkən Android sistemi tərəfindən hansı əsas hərəkətlər tanınır?
+- [ ] Barmaq fırlanma
+- [ ] Səs düyməsini barmaqla vurun
+- [ ] Söndürmək düyməsinə barmaq touch
+- [x] Barmaqla ekrana toxunmaq
+- [ ] Geniş gülüş
+322. Android-də animasiya yaratmaq üçün hansı sinif əsas quruluşu təmin edir?
+- [ ] Recognize
+- [x] Animator
+- [ ] Manage
+- [ ] AnimatedVectorDrawable
+- [ ] Animate
+323. Android-də animasiya xüsusiyyətli sistem API-lərinin (Application Programming Interface) əksəriyyəti harada yerləşir?
+- [ ] android.graphics
+- [ ] android.transition
+- [ ] android.widget
+- [x] android.animate
+- [ ] android.view
+324. Android əmlak animasiya sistemində IntEvaluator sinfi nə üçündür?
+- [ ] Öz kompüterinizin yaradılması
+- [ ] Yalnız maddi dəyərin hesablanması
+- [ ] Animasiya vaxtının hesablanması
+- [ ] Rəng dəyərlərinin hesablanması
+- [x] Xüsusiyyətlərin tam dəyərlərinin hesablanması
+325. Jest tanıma fəaliyyət faylını XML-ə (Extensible Markup Language) Hansı komponent əlavə etməlisiniz?
+- [ ] GestureManage
+- [ ] MotionManage
+- [ ] TouchRecognize
+- [ ] GestureRecognize
+- [x] Gesture Overlay View
+326. Android versiyası 1.6-dan başlayaraq jestlərlə işləmək üçün API (Application Programming Interface) hansı paketdədir?
+- [ ] android.event
+- [ ] android.motion
+- [ ] android.detect
+- [x] android.gesture
+- [ ] android.touch
+327. Hansı sinif Android-də standart jestləri tanımağa imkan verir?
+- [ ] GestureManage
+- [x] GestureDetect
+- [ ] TouchRecognize
+- [ ] MotionManage
+- [ ] GestureRecognize
+328. MotionEvent obyekti ontouchevent metodunda nə təmin edir?
+- [ ] Sensor hadisəsi
+- [ ] Ekranın qrafik sahəsi
+- [ ] Barmaq yeri
+- [x] Bütün qarşılıqlı əlaqələrin təfərrüatlarını
+- [ ] Hadisə adı
+329. Sadalanan jestlərdən hansı MotionEvent hadisəsi ilə başlayır. ACTION_DOWN?
+- [x] Barmaqla ekrana toxunmaq
+- [ ] Barmağınızı ekrandan qaldırın
+- [ ] Barmağınızı ekranda hərəkət etdirin
+- [ ] İki barmaqla fırlanma
+- [ ] Uzun ekran tıqqıltı
+330. Android əməliyyat sistemini kim inkişaf etdirdi?
+- [x] Google
+- [ ] Samsung
+- [ ] Sony
+- [ ] Macintosh
+- [ ] Microsoft
+331. "Nəzarətlər, insanların rəqəmsal məhsullarla qarşılıqlı əlaqədə olduğu manipulyasiya üçün mövcud olan özünü təmin edən ekran obyektləridir" dedikdə aşağıdakı variantlardan hansı uyğundur?
+- [ ] giriş elementləri
+- [ ] seçim elementləri,
+- [ ] interfeys dizaynı
+- [ ] ekran elementləri
+- [x] nəzarət
+332. İnterfeys dizayneri seçimdən başqa əsas vizual bacarıqlara nə sahib olmalıdır?
+- [ ] Tipoqrafiya anlayışı
+- [ ] rəng anlayışı
+- [ ] kompozisiyanı anlamaq
+- [ ] forma anlayışı
+- [x] səs effektlərini anlamaq
+333. Hansı variant informasiya dizaynerinin məlumatları düzgün şərhinə kömək edən formada təqdim etdiyi vasitələrə aid deyil?
+- [x] parlaqlıq
+- [ ] rəng
+- [ ] forma
+- [ ] yer
+- [ ] ölçəklenebilirlik
+334. Ekrandakı Obyektlər və real dünya obyektləri arasında məkan əlaqəsi yaratmaq üçün əsas vasitə nə ola bilər?
+- [ ] forma
+- [ ] rəng
+- [ ] ölçü
+- [x] yer
+- [ ] parlaqlıq
+335. Mahiyyətcə dəyişən, sifariş edilmiş və kəmiyyətcə ifadə edilmiş, iyerarxiyanın ötürülməsi üçün nə faydalıdır?
+- [ ] rəng
+- [ ] parlaqlıq
+- [ ] forma
+- [x] yer
+- [ ] ölçü
+336. İstiqamət məlumatlarını ötürmək lazım olduqda nə faydalıdır?
+- [ ] parlaqlıq
+- [x] istiqamət
+- [ ] ölçü
+- [ ] rəng
+- [ ] forma
+337. "Qaranlıq və işıq anlayışları əsasən kontekstdə nə məna kəsb edir" dedikdə aşağıdakı variantlardan hansı uyğundur?
+- [ ] rəng
+- [ ] forma
+- [ ] ölçü
+- [x] parlaqlıq
+- [ ] istiqamət
+338. Intel ' in yeni XDK (Xbox Development Kit) versiyasının ilk nəşri nə vaxt çıxdı?
+- [ ] 41821
+- [ ] 41671
+- [ ] 41030
+- [x] 41518
+- [ ] 41640
+339. Android OS-in hansı Versiyaları 2D qrafika üçün aparat sürətləndirilməsini dəstəkləyir?
+- [x] Versiya 3.0-dan başlayaraq (API səviyyə 11)
+- [ ] Versiyalar 4.2 və 4.4
+- [ ] Yalnız 1.6 Versiyaları (API səviyyə 4)
+- [ ] Yalnız 2.2 versiyaları
+- [ ] Yalnız 4.2 Versiyaları
+340. Android OS-də toxunma hadisələri kimi tanınan əsas istifadəçi hərəkətləri hansılardır?
+- [ ] Tıqqıltı, buraxma
+- [ ] Üz jestləri
+- [x] Toxun, hərəkət et, "svayp"
+- [ ] Səs əmrləri
+- [ ] Cihazı döndərin, cüt vurun
+341. 2D qrafika üçün 3.0 versiyasından başlayaraq hansı Android komponentləri aparat sürətləndirilməsini dəstəkləyir?
+- [ ] SQLite, Canvas
+- [ ] ViewAnimator, AnimationSet
+- [ ] GestureDetector, MotionEvent
+- [x] Şəkil boru kəməri, GPU (A graphics processing unit)
+- [ ] RecyclerView, Intent
+342. Hansı istifadəçi hərəkətləri Android OS-də toxunma hadisələri kimi tanına bilər?
+- [ ] Cihazı çevirin
+- [ ] Sola sürüşdürün
+- [x] Ekrana toxunun, barmağınızı hərəkət etdirin, buraxın
+- [ ] Yalnız hərəkət
+- [ ] Yalnız ekrana toxunun
+343. GestureDetector sinfi Android OS-də qrafika və animasiyalarla işləyərkən nə üçün istifadə olunur?
+- [ ] Öz interpolatorlarınızı yaradın
+- [ ] Aparat sürətləndirilməsinə nəzarət
+- [ ] Verilənlər bazasında məlumatların saxlanması
+- [x] Standart jestlər və onların yayılmasını
+- [ ] Oyun interfeysinin təşkili
+344. Animasiya xüsusiyyətli sistemdə hansı animasiya xüsusiyyətləri müəyyən edilə bilər?
+- [ ] Yalnız müddəti
+- [ ] Obyektlərin ölçüsü və rəngi
+- [x] Yuxarıda göstərilənlərin hər birini
+- [ ] Müddəti və interpolator
+- [ ] Müvəqqəti interpolasiya və təkrarların sayı
+345. Android animasiya xüsusiyyətli sistem nəyi təmin edir?
+- [ ] Məhdud animasiya xüsusiyyətləri
+- [x] Obyektin istənilən xüsusiyyətini dəyişdirmək imkanını
+- [ ] Yalnız mətn xüsusiyyətlərini dəyişdirmək imkanı
+- [ ] Yalnız görünən obyektlər üçün animasiya
+- [ ] Yalnız ekran şəkilləri üçün animasiya
+346. Canvas sinfi Android OS-də qrafika ilə işləmək üçün özündə nəyi ifadə edir?
+- [ ] Oyun proseslərinin təşkili
+- [ ] Sensor hadisələrin işlənməsi
+- [ ] Verilənlər bazasının idarə edilməsi
+- [ ] Animasiya, interfeys
+- [x] Qrafik obyektlərin çəkilməsi, qrafika işləmlərini
+347. Verilənlər bazası ilə işləmək üçün hansı Android komponentindən istifadə olunur?
+- [ ] MotionEvent
+- [ ] RecyclerView
+- [ ] Intent
+- [x] SQLite
+- [ ] Canvas
+348. Android mobil sistemlərində verilənlər bazası ilə işləməyin əsas məqsədi nədir?
+- [ ] İnterfeys animasiyası
+- [ ] Şəkil sıxılma
+- [ ] Oyun inkişafı
+- [x] Məlumatların saxlanması və təşkili
+- [ ] Qrafika
+349. Animasiya xüsusiyyətli sistemdə "çərçivə yeniləmə dərəcəsi" xarakteristikasını nə müəyyənləşdirir?
+- [ ] Vaxt intervallarının müddəti
+- [ ] Animasiyaların təşkili
+- [ ] Animasiyaların müvəqqəti interpolasiyası
+- [ ] Təkrarların sayı
+- [x] Animasiya çərçivə dəyişdirmə dərəcəsi
+350. Animasiya xüsusiyyətli sistemdə "animasiya qrupu" xarakteristikası nəyi təmin edir?
+- [x] Animasiyaların çoxluğa və icra rejiminə nəzarətin təşkilini
+- [ ] Vaxt intervallarının müddəti
+- [ ] Çərçivə yeniləmə dərəcəsi
+- [ ] Animasiyaların müvəqqəti interpolasiyası
+- [ ] Animasiyaların tərs qaydada oxutma qabiliyyəti
+351. Animasiya xüsusiyyətli sistemdə "təkrar sayı və davranışı" xarakteristikası nə deməkdir?
+- [x] Animasiyanı təkrarlamaq ehtiyacı və davranışı müəyyən etməyi
+- [ ] Animasiyaların müvəqqəti interpolasiyası
+- [ ] Animasiya qrupu
+- [ ] Çərçivə yeniləmə dərəcəsi
+- [ ] Vaxt intervallarının müddəti
+352. Animasiya xüsusiyyətli sistemində "müddət" nəyi ifadə edir?
+- [ ] Animasiyaların başlama vaxtı
+- [ ] Təkrarların sayı
+- [ ] Kadr dəyişikliyi
+- [ ] Bütün animasiyaların tərs qaydada oxutma qabiliyyəti
+- [x] İcra müddətinin vaxtını
+353. Əlaqə sensor sistemlərinə, o cümlədən aşağıdakı daxildir:
+- [ ] müdafiə
+- [ ] eşitmə
+- [ ] vestibulyar
+- [x] dad
+- [ ] vizual
+354. Sensor sistemləri reseptorun stimula, xarici qıcıq faktoruna qarşı qarşılıqlı təsirindən asılı olaraq neçə növə bölünür?
+- [ ] 5
+- [ ] 6
+- [ ] 3
+- [ ] 4
+- [x] 2
+355. Dəri, əzələ-oynaq və visseral hisslər, o cümlədən hansı vahid sistemi təşkil edir?
+- [ ] vizual sistem
+- [ ] dad sistemi
+- [ ] Olfaktör sistemi
+- [x] somatosensor sistemi
+- [ ] müdafiə sistemi
+356. Dəri, əzələ-oynaq və visseral hisslər, o cümlədən hansı vahid sistemi təşkil edir?
+- [x] ümumi həssas sistem
+- [ ] dad sistemi
+- [ ] müdafiə sistemi
+- [ ] vizual sistem
+- [ ] Olfaktör sistemi
+357. Dəri, əzələ-oynaq və visseral hisslər hansı vahid sistemi təşkil edir?
+- [ ] müdafiə sistemi
+- [ ] dad sistemi
+- [ ] Olfaktör sistemi
+- [x] dəri-əzələ sistemi
+- [ ] vizual sistem
+358. İnteroseptiv hiss hansı sensor sistemə uyğundur?
+- [ ] vestibulyar
+- [ ] toxunma
+- [ ] Olfaktör
+- [x] visseral
+- [ ] əzələ
+359. Kinestetik hiss hansı duyğu sisteminə uyğundur?
+- [ ] visseral
+- [ ] toxunma
+- [ ] Olfaktör
+- [x] əzələ
+- [ ] vestibulyar
+360. Tarazlıq hissi hansı duyğu sisteminə uyğundur?
+- [ ] Olfaktör
+- [ ] visseral
+- [ ] əzələ
+- [x] vestibulyar
+- [ ] toxunma
+361. İnsanın daxili orqanlarının reseptorlarının qıcıqlanması zamanı yaranan hissin adı nədir?
+- [ ] kinestetik hiss
+- [ ] toxunma hissi
+- [x] interoseptiv hiss
+- [ ] müdafiə hissi
+- [ ] tarazlıq hissi
+362. İnsanın əzələ-oynaq hissi nə adlanır?
+- [ ] bərabərlik hissi
+- [ ] toxunma hissi
+- [x] kinestetik hiss
+- [ ] müdafiə hissi
+- [ ] interoseptiv hiss
+363. İnsanın yaşayış məkanında mövqe hissi nə adlanır?
+- [ ] müdafiə hissi
+- [ ] toxunma hissi
+- [ ] əzələ-oynaq hissi
+- [ ] interoseptiv hiss
+- [x] tarazlıq hissi
+364. Hansı variant sensor sistemlərin həssaslıq növlərinə aid deyil?
+- [ ] toxunma
+- [ ] vizual
+- [ ] eşitmə
+- [x] müdafiə
+- [ ] Olfaktör
+365. Hansı variant sensor sistemlərin həssaslıq növlərinə aid deyil?
+- [ ] Olfaktör
+- [ ] dəri
+- [ ] vizual
+- [ ] eşitmə
+- [x] müdafiə
+366. Hansı variant sensor sistemlərin həssaslıq növlərinə aid deyil?
+- [ ] eşitmə
+- [ ] dad
+- [ ] vizual
+- [ ] Olfaktör
+- [x] müdafiə
+367. Hansı variant duyğu hisslərinin növlərinə aid deyil?
+- [ ] vizual
+- [ ] toxunma
+- [ ] qoxu hissi
+- [x] fobiya
+- [ ] eşitmə
+368. "Analizatorun mərkəzi şöbəsi" dedikdə aşağıdakı variantlardan hansı başa düşülür?
+- [x] yuxarı hiss yollarının afferent liflərinin gəldiyi beyin qabığının hiss sahəsi ilə təmsil olunur.
+- [ ] müəyyən bir mühitin stimulunu yatırmaq üçün təkamül yolu ilə uyğunlaşdırılmış reseptorlar
+- [ ] həssas bir sinir və reseptor məlumatlarının beyin qabığına keçdiyi bir sıra subkortikal nüvələrlə təmsil olunur
+- [ ] xüsusi və qeyri-spesifik hissləri ayırd edin
+- [ ] bu yol boyunca bu analizatorun reseptorları tərəfindən göndərilən xüsusi kod şəklində məlumatlar yayılır
+369. "Yuxarı hiss yollarının afferent liflərinin gəldiyi beyin qabığının hiss sahəsi" dedikdə aşağıdakı variantlardan hansı başa düşülür?
+- [ ] paralel analizator şöbəsi
+- [ ] analizatorun periferik şöbəsi
+- [x] analizatorun mərkəzi şöbəsi
+- [ ] analizatorun keçirici şöbəsi
+- [ ] analizatorun Ekstremal şöbəsi
+370. "Hər hansı bir analizatorun reseptorları tərəfindən alınan məlumatların daxil olduğu retikulyar formasiyanın nüvələri sistemi ilə təmsil olunur" dedikdə aşağıdakı variantlardan hansı başa düşülür?
+- [ ] dirijor şöbəsinin ixtisaslaşdırılmış hissəsi
+- [ ] dirijor bölməsinin xüsusi hissəsi
+- [ ] dirijor şöbəsinin spesifik hissəsi
+- [ ] dirijor şöbəsinin qeyri-ixtisaslaşdırılmış hissəsi
+- [x] dirijor şöbəsinin qeyri-spesifik hissəsi
+371. Bu analizatorun reseptorları tərəfindən qəbul edilən məlumat hansı kod şəklində yayılır?
+- [ ] gizli kod
+- [ ] ikiqat kod
+- [ ] hörmətli kod
+- [ ] ikiqat kod
+- [x] tezlik kodu
+372. "Hər analizator üçün dirijor şöbəsinin xüsusi hissəsi" dedikdə aşağıdakı variantlardan hansı başa düşülür?
+- [ ] dublyaj
+- [ ] paralel
+- [x] fərdi
+- [ ] oxşar
+- [ ] eyni
+373. Hansı fərqlər diqqəti tez cəlb edir?
+- [ ] ölçü
+- [ ] forma
+- [ ] parlaq
+- [ ] dokulu
+- [x] rəng effektləri
+374. "İnformasiya iyerarxiyalarını göstərmək üçün faydalı əmlak" dedikdə aşağıdakı variantlardan hansı uyğundur?
+- [ ] parlaqlıq
+- [x] ölçü
+- [ ] rəng
+- [ ] forma
+- [ ] dizayn
+375. "İstifadəçinin diqqətini cəlb etmək lazımdırsa, kontrast yaratmaq üçün variantlardan ən yaxşı xüsusiyyət deyil" dedikdə aşağıdakı variantlardan hansı uyğundur?
+- [ ] rəng
+- [ ] ölçü
+- [x] forma
+- [ ] parlaqlıq
+- [ ] dizayn
+376. "İnsan üçün obyektin mahiyyətinin əsas əlaməti" dedikdə aşağıdakı variantlardan hansı uyğundur?
+- [ ] rəng
+- [ ] parlaqlıq
+- [ ] dizayn
+- [ ] ölçü
+- [x] forma
+377. "Qarşılıqlı dizayn və sənaye dizaynı ilə birlikdə tətbiq edilməli olan zəruri və unikal intizam" dedikdə aşağıdakı variantlardan hansı uyğundur?
+- [ ] Yerli interfeys dizaynı
+- [x] Vizual interfeys dizaynı
+- [ ] Sənaye interfeys dizaynı
+- [ ] Virtual interfeys dizaynı
+- [ ] Qrafik interfeys dizaynı
+378. MIT App Inventor-da interfeys elementinin görünürlüyünü necə idarə etmək olar?
+- [ ] Notifier komponenti ilə
+- [ ] Clock komponentindən istifadə
+- [ ] Elementlərin fon rəngini dəyişdirərək
+- [x] Görünən və "görünməz" bloklarından istifadə ilə
+- [ ] Accelerometer komponenti vasitəsilə
+379. MIT App Inventor-da istifadəçinin cari yerini necə tapmaq olar?
+- [ ] Veb komponentindən istifadə
+- [ ] FusionTable Vasitəsilə
+- [ ] Ekran rəngini analiz edərək
+- [ ] Accelerometer komponenti vasitəsilə
+- [x] Location sensor komponenti ilə
+380. MIT App Inventor-da düyməyə səs effekti necə əlavə olunur?
+- [ ] Düymənin fonunu dəyişdirərək
+- [ ] TinyDB komponenti vasitəsilə
+- [ ] Clock komponentləri istifadə
+- [x] Sound komponenti ilə
+- [ ] VideoPlayer komponenti vasitəsilə
+381. MIT App Inventor-da ekranlar (ekranlar) arasında məlumatları necə ötürmək olar?
+- [ ] Ekranın rəngini dəyişdirərək
+- [ ] SMS vasitəsilə
+- [ ] Image komponenti ilə
+- [x] TinyDB İstifadə etməklə
+- [ ] Appupdate komponenti ilə
+382. MIT App Inventor-da tətbiq interfeysini yaratmaq üçün hansı komponentdən istifadə olunur?
+- [ ] WirelessTransferData
+- [ ] Map Interactive
+- [ ] TaggerGeo
+- [ ] AppUpdate
+- [x] Button ilə
+383. MIT App Inventor-da etiketlər və yer məlumatları ilə interaktiv xəritə necə yaradılır?
+- [ ] GeoTagger
+- [ ] MapMarkerComponent
+- [ ] LocationMarker
+- [x] Map Interactive ilə
+- [ ] MarkerMap
+384. MIT App Inventor-a Bluetooth vasitəsilə tətbiq və xarici cihazlar arasında məlumat mübadiləsi qabiliyyətini necə əlavə etmək olar?
+- [x] Bluetooth Component ilə
+- [ ] ProgressCircle
+- [ ] ConnectivityDevice
+- [ ] BluetoothDataExchange
+- [ ] WirelessTransferData
+385. MIT App Inventor-da dairəvi yükləmə göstəricisi (ProgressBar) necə yaradılır?
+- [ ] CircleProgress
+- [ ] CircularLoader
+- [ ] ProgressBarComponent
+- [x] Progress Circle ilə
+- [ ] LoadingIndicator
+386. MIT App Inventor-da avtomatik tətbiq yeniləmə xüsusiyyətini necə həyata keçirmək olar?
+- [ ] AutoUpdater
+- [ ] VersionControl
+- [ ] AutoUpdateComponent
+- [x] App Update ilə
+- [ ] UpdateManager
+387. MIT App Inventor-da cihaz qalereyasından bir şəkil seçmək seçimini necə əlavə etmək olar?
+- [ ] ImageSelect
+- [ ] GallerySelector
+- [ ] PickImageComponent
+- [x] Picker Image ilə
+- [ ] ImageChooser
+388. MIT App Inventor-da ekranlar arasında cizgi keçidini necə yaratmaq olar?
+- [ ] PullToRefresh
+- [ ] Bildiriş meneceri
+- [ ] Səhifə kaydırıcısı
+- [x] Keçid komponentləri ilə
+- [ ] UpdateHandler
+389. MIT App Inventor-da ekran məzmununu yeniləmək üçün "yeniləmə çalmaq" elementini necə əlavə etmək olar?
+- [ ] ScreenRefresher
+- [ ] RefreshComponent
+- [ ] UpdateHandler
+- [x] Refresh Swipe ilə
+- [ ] PullToRefresh
+390. MIT App Inventor-da xəbərdarlıq (bildiriş) necə yaradılır?
+- [ ] PushNotification
+- [ ] AlertNotifier
+- [x] Bildiriş komponentləri ilə
+- [ ] Bildiriş meneceri
+- [ ] NotifyBuilder
+391. Android-də animasiya xüsusiyyətli sistem nəyi təmin edir?
+- [ ] Yalnız görünən obyektlər üçün animasiya
+- [ ] Yalnız ekran şəkilləri üçün animasiya
+- [ ] Məhdud animasiya xüsusiyyətləri
+- [x] Obyektin istənilən xüsusiyyətini dəyişdirmək imkanını
+- [ ] Yalnız mətn xüsusiyyətlərini dəyişdirmək imkanı
+392. Typeevaluator interfeyşi animasiya xüsusiyyətli sistemdə nəyi təmin edir?
+- [ ] Vaxt interpolasiyasını təyin etmək imkanı
+- [ ] Mülkiyyətin maddi dəyərlərini hesablamaq imkanı
+- [x] Öz kompüterlərinizi yaratmaq bacarığı
+- [ ] Animasiya icra müddətini idarə etmək imkanı
+- [ ] İnterfeys düzəni quruluşunu dəyişdirmək imkanı
+393. FloatEvaluator sinfi animasiya xüsusiyyətli sistemdə nə üçün istifadə olunur?
+- [ ] Animasiya icra vaxtını idarə etmək üçün
+- [ ] Hex görünüşündə rəng dəyərlərini hesablamaq üçün
+- [ ] Öz media yaratmaq üçün
+- [ ] Vaxt interpolasiyasını təyin etmək
+- [x] Xüsusiyyətlərin həqiqi dəyərlərini hesablamaq üçün
+394. Hesablama dərəcələri Android xüsusiyyətli animasiya sistemində nə edir?
+- [ ] İnterfeys düzəni quruluşunu dəyişdirin
+- [ ] Öz animasiya effektlərini yaradın
+- [x] Verilmiş xüsusiyyətlərin dəyərlərinin necə hesablandığını müəyyən edir
+- [ ] Animasiya işləmə müddətini idarə edin
+- [ ] Rəng interpolasiyasını təyin edin
+395. Android OS-də qrafikləri birbaşa kətan üzərində təsvir etmək üçün nə lazımdır?
+- [ ] Yalnız standart qrafik elementlərdən istifadə edin
+- [ ] Əlavə rəsm kitabxanalarını qoşun
+- [x] Ondraw () metodunun çağırılmasına diqqət yetirin və ya rəsmdən istifadə edin...() Canvas sinif metodları
+- [ ] Bütün qrafik obyektləri əvvəlcədən müəyyənləşdirin
+- [ ] İnterfeys elementində ondrau () metodunu çağırın
+396. Birinci yol UI- user interface elementindəki qrafika nə vaxt uyğun gəlir?
+- [ ] Qrafik üç ölçülü olmalıdır
+- [ ] Dinamik dəyişikliklər olmadan sadə bir qrafik göstərmək lazım olduqda
+- [ ] Tətbiq pəncərələrinin daimi yenidən çəkilməsi tələb olunduqda
+- [x] Mürəkkəb animasiya tələb olunduqda
+- [ ] Yalnız standart qrafik elementlərə ehtiyac olmadıqda
+397. Android tətbiqində 2D qrafikləri göstərmək üçün hansı iki əsas yol var?
+- [ ] Yalnız standart qrafik elementlərdən istifadə edin
+- [ ] Qrafikləri birbaşa kətan üzərində təsvir edin
+- [ ] Üç ölçülü qrafiklərdən istifadə edin
+- [ ] Qrafikləri göstərmək üçün xarici kitabxanaları qoşun
+- [x] İstifadəçi interfeysi elementində qrafiklərdən istifadə etmə
+398. Android OS-də OpenGL ES 3.0 dəstəyi hansı cihazlarda olmaya bilər?
+- [ ] Android 2.0 və daha yüksək olan bütün cihazlarda
+- [x] Qrafik Boru Kəməri tətbiq etməyən cihazlarda
+- [ ] Android 2.2 və daha yüksək olan cihazlarda
+- [ ] Android 4.3 və yuxarı cihazlarda
+- [ ] Yalnız Android 5.0 və daha yüksək olan cihazlarda
+399. Android OS-də OpenGL ES-in hansı versiyaları dəstəklənir?
+- [ ] OpenGL ES 2.0 və yuxarı
+- [ ] Yalnız OpenGL ES 2.0 və 3.0 və yuxarı
+- [ ] OpenGL ES 1.0 və 1.1 və yuxarı
+- [x] Göstərilənlərin hər birini
+- [ ] OpenGL ES 3.0 və yuxarı
+400. Android OS-də aparat təminatının sürətləndirməsini aktivləşdirərkən hansı problemlər yarana bilər?
+- [ ] Yanlış mətn ekranı
+- [ ] Batareya problemləri
+- [ ] Cihazın ısınması
+- [ ] Tətbiqin yavaşlaması
+- [x] Xüsusi şəkillərin pozulması
 `;

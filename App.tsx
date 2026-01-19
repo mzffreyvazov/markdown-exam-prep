@@ -251,47 +251,50 @@ const App: React.FC = () => {
   return (
     <div className="min-h-screen flex flex-col">
       <header className="bg-white border-b border-gray-200 sticky top-0 z-50 shadow-sm">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex justify-between items-center">
+        <div className="max-w-7xl mx-auto px-2 sm:px-4 lg:px-8 h-16 flex justify-between items-center gap-2">
           <div 
-            className="flex items-center cursor-pointer" 
+            className="flex items-center cursor-pointer min-w-0 flex-shrink-0" 
             onClick={handleResetToSetup}
           >
-            <div className="bg-indigo-600 rounded-lg p-1.5 mr-2">
+            <div className="bg-indigo-600 rounded-lg p-1.5 sm:mr-2 mr-1.5">
               <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 text-white" viewBox="0 0 20 20" fill="currentColor">
                 <path d="M9 4.804A7.968 7.968 0 005.5 4c-1.255 0-2.443.29-3.5.804v10A7.969 7.969 0 015.5 14c1.669 0 3.218.51 4.5 1.385A7.962 7.962 0 0114.5 14c1.255 0 2.443.29 3.5.804v-10A7.968 7.968 0 0014.5 4c-1.255 0-2.443.29-3.5.804V12a1 1 0 11-2 0V4.804z" />
               </svg>
             </div>
-            <h1 className="text-xl font-bold text-gray-900 tracking-tight">ExamPrep</h1>
+            <h1 className="text-base sm:text-xl font-bold text-gray-900 tracking-tight">ExamPrep</h1>
           </div>
 
-          <nav className="flex items-center space-x-2 md:space-x-4">
+          <nav className="flex items-center gap-1.5 sm:gap-2 md:gap-4 flex-shrink min-w-0">
             {activeSession && activeSession.status === 'ACTIVE' && mode === AppMode.EXAM && (
                <button
                  type="button"
                  onClick={handleEndSession}
-                 className="cursor-pointer px-4 py-2 rounded-md text-sm font-semibold text-red-600 border border-red-200 bg-red-50 hover:bg-red-100 hover:text-red-700 transition-colors focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500"
+                 className="cursor-pointer px-2 sm:px-4 py-1.5 sm:py-2 rounded-md text-xs sm:text-sm font-semibold text-red-600 border border-red-200 bg-red-50 hover:bg-red-100 hover:text-red-700 transition-colors focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500 whitespace-nowrap"
                >
-                 End Session
+                 <span className="hidden sm:inline">End Session</span>
+                 <span className="sm:hidden">End</span>
                </button>
             )}
             
             <button
                type="button"
                onClick={handleResetToSetup}
-               className={`px-3 py-2 rounded-md text-sm font-medium transition-colors ${mode === AppMode.EXAM || mode === AppMode.SETUP || mode === AppMode.RESULTS ? 'text-indigo-600 bg-indigo-50' : 'text-gray-500 hover:text-gray-900'}`}
+               className={`px-2 sm:px-3 py-1.5 sm:py-2 rounded-md text-xs sm:text-sm font-medium transition-colors whitespace-nowrap ${mode === AppMode.EXAM || mode === AppMode.SETUP || mode === AppMode.RESULTS ? 'text-indigo-600 bg-indigo-50' : 'text-gray-500 hover:text-gray-900'}`}
              >
-               {activeSession && activeSession.status === 'ACTIVE' ? 'Exam' : 'New Exam'}
+               <span className="hidden sm:inline">{activeSession && activeSession.status === 'ACTIVE' ? 'Exam' : 'New Exam'}</span>
+               <span className="sm:hidden">Exam</span>
              </button>
 
             <button
               type="button"
               onClick={() => setMode(AppMode.SAVED)}
-              className={`flex items-center px-3 py-2 rounded-md text-sm font-medium transition-colors ${mode === AppMode.SAVED ? 'text-indigo-600 bg-indigo-50' : 'text-gray-500 hover:text-gray-900'}`}
+              className={`flex items-center px-2 sm:px-3 py-1.5 sm:py-2 rounded-md text-xs sm:text-sm font-medium transition-colors whitespace-nowrap ${mode === AppMode.SAVED ? 'text-indigo-600 bg-indigo-50' : 'text-gray-500 hover:text-gray-900'}`}
             >
-              <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 mr-1.5" fill={mode === AppMode.SAVED ? "currentColor" : "none"} viewBox="0 0 24 24" stroke="currentColor">
+              <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 sm:mr-1.5" fill={mode === AppMode.SAVED ? "currentColor" : "none"} viewBox="0 0 24 24" stroke="currentColor">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
               </svg>
-              Saved <span className="ml-1 text-xs bg-gray-200 px-1.5 py-0.5 rounded-full">{savedQuestions.length}</span>
+              <span className="hidden sm:inline">Saved</span>
+              <span className="ml-1 text-xs bg-gray-200 px-1.5 py-0.5 rounded-full">{savedQuestions.length}</span>
             </button>
           </nav>
         </div>

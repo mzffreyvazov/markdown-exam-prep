@@ -11,26 +11,32 @@ const SetupExam: React.FC<SetupExamProps> = ({ questions, onStart, onCancel }) =
   const minId = questions.length > 0 ? questions[0].id : 1;
   const maxId = questions.length > 0 ? questions[questions.length - 1].id : 0;
 
-  const [rangeStart, setRangeStart] = useState(minId);
-  const [rangeEnd, setRangeEnd] = useState(maxId);
-  const [count, setCount] = useState(50);
+  const [rangeStart, setRangeStart] = useState<number | ''>(minId);
+  const [rangeEnd, setRangeEnd] = useState<number | ''>(maxId);
+  const [count, setCount] = useState<number | ''>(50);
 
   // Calculate valid count based on range
-  const validQuestionsInRange = questions.filter(q => q.id >= rangeStart && q.id <= rangeEnd).length;
+  const numRangeStart = typeof rangeStart === 'number' ? rangeStart : minId;
+  const numRangeEnd = typeof rangeEnd === 'number' ? rangeEnd : maxId;
+  const validQuestionsInRange = questions.filter(q => q.id >= numRangeStart && q.id <= numRangeEnd).length;
 
   useEffect(() => {
     // Adjust count if it exceeds available questions in range
-    if (count > validQuestionsInRange && validQuestionsInRange > 0) {
+    const numCount = typeof count === 'number' ? count : 0;
+    if (numCount > validQuestionsInRange && validQuestionsInRange > 0) {
       setCount(validQuestionsInRange);
     }
   }, [rangeStart, rangeEnd, validQuestionsInRange, count]);
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
+    const finalStart = typeof rangeStart === 'number' ? rangeStart : minId;
+    const finalEnd = typeof rangeEnd === 'number' ? rangeEnd : maxId;
+    const finalCount = typeof count === 'number' ? count : 1;
     onStart({
-      startRange: rangeStart,
-      endRange: rangeEnd,
-      questionCount: Math.min(count, validQuestionsInRange)
+      startRange: finalStart,
+      endRange: finalEnd,
+      questionCount: Math.min(finalCount, validQuestionsInRange)
     });
   };
 
@@ -45,18 +51,36 @@ const SetupExam: React.FC<SetupExamProps> = ({ questions, onStart, onCancel }) =
             <input
               type="number"
               min={minId}
-              max={rangeEnd}
+              max={numRangeEnd || maxId}
               value={rangeStart}
-              onChange={(e) => setRangeStart(Number(e.target.value))}
+              onChange={(e) => {
+                const val = e.target.value;
+                setRangeStart(val === '' ? '' : Number(val));
+              }}
+              onBlur={(e) => {
+                if (e.target.value === '') {
+                  setRangeStart(minId);
+                }
+              }}
+              placeholder={minId.toString()}
               className="flex-1 px-4 py-2 bg-white text-gray-900 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 outline-none transition-all"
             />
             <span className="text-gray-400 font-bold">-</span>
             <input
               type="number"
-              min={rangeStart}
+              min={numRangeStart || minId}
               max={maxId}
               value={rangeEnd}
-              onChange={(e) => setRangeEnd(Number(e.target.value))}
+              onChange={(e) => {
+                const val = e.target.value;
+                setRangeEnd(val === '' ? '' : Number(val));
+              }}
+              onBlur={(e) => {
+                if (e.target.value === '') {
+                  setRangeEnd(maxId);
+                }
+              }}
+              placeholder={maxId.toString()}
               className="flex-1 px-4 py-2 bg-white text-gray-900 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 outline-none transition-all"
             />
           </div>
@@ -75,7 +99,16 @@ const SetupExam: React.FC<SetupExamProps> = ({ questions, onStart, onCancel }) =
             min={1}
             max={validQuestionsInRange}
             value={count}
-            onChange={(e) => setCount(Number(e.target.value))}
+            onChange={(e) => {
+              const val = e.target.value;
+              setCount(val === '' ? '' : Number(val));
+            }}
+            onBlur={(e) => {
+              if (e.target.value === '') {
+                setCount(Math.min(50, validQuestionsInRange));
+              }
+            }}
+            placeholder="50"
             className="w-full px-4 py-2 bg-white text-gray-900 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 outline-none transition-all"
           />
           <div className="flex justify-between text-xs text-gray-500 mt-1 px-1">
